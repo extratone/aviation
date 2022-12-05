@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <waypoint-table>
+    <waypoint>
+      <identifier>EHAM</identifier>
+      <type>AIRPORT</type>
+      <lat>52.3148625691732</lat>
+      <lon>4.75804209709168</lon>
+    </waypoint>
+    <waypoint>
+      <identifier>IDRID</identifier>
+      <type>INT</type>
+      <lat>51.99611111</lat>
+      <lon>3.49611111</lon>
+      <elevation>6705.6</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>LOGAN</identifier>
+      <type>INT</type>
+      <lat>51.74750889</lat>
+      <lon>1.61168278</lon>
+      <elevation>4876.8</elevation>
+    </waypoint>
+    <waypoint>
+      <identifier>EGLL</identifier>
+      <type>AIRPORT</type>
+      <lat>51.4712257385254</lat>
+      <lon>-0.460880652070046</lon>
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>Amsterdam Schiphol to London Heathrow</route-name>
+    <route-point>
+      <waypoint-identifier>EHAM</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>IDRID</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>LOGAN</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>EGLL</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+    </route-point>
+  </route>
+</flight-plan>

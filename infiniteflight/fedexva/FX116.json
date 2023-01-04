@@ -1,0 +1,16 @@
+{
+  "id": "632dbdb9-0bc4-4154-b99d-1bdba0932f1c",
+  "created": "2022-12-14T03:00:12.039243+00:00",
+  "userId": "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+  "aircraftId": "3f78766a-30c8-4d65-95ae-ebc2fb758aac",
+  "liveryId": "f7a85def-8298-45dc-a954-d0b9d4043cd8",
+  "callsign": "FedEx 216 Heavy",
+  "server": "Training Server",
+  "dayTime": 0,
+  "nightTime": 205.74924,
+  "totalTime": 205.74924,
+  "landingCount": 1,
+  "originAirport": "KPDX",
+  "destinationAirport": "KMEM",
+  "xp": 2211
+}

@@ -1,0 +1,234 @@
+{
+  "result" : {
+    "flightId" : "632dbdb9-0bc4-4154-b99d-1bdba0932f1c",
+    "waypoints" : [
+      "KPDX",
+      "RIVRR",
+      "COSUG",
+      "HADIS",
+      "WHAMY",
+      "IMB",
+      "BOI",
+      "AUTIM",
+      "RASCL",
+      "WHOLL",
+      "HOOOG",
+      "BRBBQ",
+      "JAMLA",
+      "REISE",
+      "RONEE",
+      "RW18L",
+      "KMEM"
+    ],
+    "flightPlanType" : 0,
+    "flightPlanItems" : [
+      {
+        "identifier" : "KPDX",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 9.4488000869750977,
+          "longitude" : -122.59816614786784,
+          "latitude" : 45.588682174682617
+        },
+        "name" : "Portland Intl",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -122.47278333,
+          "latitude" : 45.56779306
+        },
+        "name" : "RIVRR",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -122.32501778,
+          "latitude" : 45.540853060000003
+        },
+        "name" : "COSUG",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -122.27668333,
+          "latitude" : 45.489192780000003
+        },
+        "name" : "HADIS",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -121.97833333,
+          "latitude" : 45.254166669999996
+        },
+        "name" : "WHAMY",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "IMB",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -119.71141305555555,
+          "latitude" : 44.648339166666666
+        },
+        "name" : "KIMBERLY",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "BOI",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -116.1919625,
+          "latitude" : 43.552781111111109
+        },
+        "name" : "BOISE",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -105.51140361,
+          "latitude" : 40.754739720000003
+        },
+        "name" : "AUTIM",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -98.235560000000007,
+          "latitude" : 38.017512500000002
+        },
+        "name" : "RASCL",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -91.293889719999996,
+          "latitude" : 36.180296669999997
+        },
+        "name" : "WHOLL",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -91.074448329999996,
+          "latitude" : 35.816964720000001
+        },
+        "name" : "HOOOG",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.886682500000006,
+          "latitude" : 35.501959999999997
+        },
+        "name" : "BRBBQ",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.640833330000007,
+          "latitude" : 35.419728059999997
+        },
+        "name" : "JAMLA",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -89.977501110000006,
+          "latitude" : 35.262798889999999
+        },
+        "name" : "REISE",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -89.974727779999995,
+          "latitude" : 35.13472222
+        },
+        "name" : "RONEE",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "RW18L",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -89.972960999999998,
+          "latitude" : 35.0488243
+        },
+        "name" : "RW18L",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "KMEM",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 103.63200378417969,
+          "longitude" : -89.97663402557373,
+          "latitude" : 35.042671203613281
+        },
+        "name" : "Memphis Intl",
+        "type" : 0,
+        "children" : null
+      }
+    ],
+    "lastUpdate" : "2022-12-14 03:56:58Z",
+    "flightPlanId" : "a47aed3f-2129-47f7-a22e-e4daa2c551ac"
+  },
+  "errorCode" : 0
+  }

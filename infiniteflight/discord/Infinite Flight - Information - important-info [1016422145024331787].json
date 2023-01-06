@@ -1,0 +1,256 @@
+{
+  "guild": {
+    "id": "914868776758038528",
+    "name": "Infinite Flight",
+    "iconUrl": "https://cdn.discordapp.com/icons/914868776758038528/0cd48f7f02a8706a2baa717fd3ce410b.png"
+  },
+  "channel": {
+    "id": "1016422145024331787",
+    "type": "GuildTextChat",
+    "categoryId": "956100482181505044",
+    "category": "Information",
+    "name": "important-info",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1016435270960287754",
+      "type": "Default",
+      "timestamp": "2022-09-05T19:50:53.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "701407520513589368",
+        "name": "AviatorDan",
+        "discriminator": "1036",
+        "nickname": "Dan",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/701407520513589368/5ea6f97d9ac67d14da8c75d784456ccb.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1016435270264029215",
+          "url": "https://cdn.discordapp.com/attachments/1016422145024331787/1016435270264029215/banner-v1.2.jpg",
+          "fileName": "banner-v1.2.jpg",
+          "fileSizeBytes": 15349
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1016435315801604257",
+      "type": "Default",
+      "timestamp": "2022-09-05T19:51:03.742+00:00",
+      "timestampEdited": "2022-11-16T09:47:58.082+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> **Important information** \n> \n> This channel has been made solely to help you find your way around Infinite Flight! From the website to learning how to do basic manoeuvres within the sim, we've got you covered. Consider this a quick reference channel. \n> \n> **Infinite Flight User Guide:**\n> > https://infiniteflight.com/guide\n> \n> **Infinite Flight and Discord TOS:**\n> > https://infiniteflight.com/legal/terms\n> > https://discord.com/terms\n> > https://discord.com/guidelines\n> \n> **Infinite Flight Support**\n> > You can receive community assistance via the #support category on the Infinite Flight Community Forum\n> > To receive official technical assistance send a detailed email to support@infiniteflight.com\n> \n> **Infinite Flight Social Media**\n> > https://infiniteflight.com/discord\n> \n> **Infinite Flight Video Tutorials (pilots/ATC):**\n> >  https://vimeo.com/showcase/infiniteflight?page=1\n> \n> **Development Timeline:**\n> > https://infiniteflight.com/timeline\n> \n> **Infinite Flight Blog:**\n> > https://infiniteflight.com/blog\n> \n> **Official Infinite Flight Events:**\n> > https://community.infiniteflight.com/tag/officialevents\n> \n> **Infinite Flight ATC Appeals:**\n> >  https://community.infiniteflight.com/g/appeals\n> \n> **Infinite Flight Discord Rules:**\n> > For rules and server information visit #rules  & #about",
+      "author": {
+        "id": "701407520513589368",
+        "name": "AviatorDan",
+        "discriminator": "1036",
+        "nickname": "Dan",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/701407520513589368/5ea6f97d9ac67d14da8c75d784456ccb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 348
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2764.svg"
+          },
+          "count": 130
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg"
+          },
+          "count": 88
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1e6.svg"
+          },
+          "count": 75
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD76",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f976.svg"
+          },
+          "count": 68
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ed.svg"
+          },
+          "count": 81
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6\uD83C\uDDFA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1fa.svg"
+          },
+          "count": 65
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDF1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f1.svg"
+          },
+          "count": 55
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDFF3️‍\uD83C\uDF08",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f3f3-fe0f-200d-1f308.svg"
+          },
+          "count": 52
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1f9.svg"
+          },
+          "count": 56
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1f0.svg"
+          },
+          "count": 61
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 60
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg"
+          },
+          "count": 71
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg"
+          },
+          "count": 53
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1e6.svg"
+          },
+          "count": 48
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5.svg"
+          },
+          "count": 72
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f1.svg"
+          },
+          "count": 73
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6.svg"
+          },
+          "count": 75
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3.svg"
+          },
+          "count": 73
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ea.svg"
+          },
+          "count": 74
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

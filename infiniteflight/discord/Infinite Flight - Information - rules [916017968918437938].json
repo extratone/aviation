@@ -1,0 +1,260 @@
+{
+  "guild": {
+    "id": "914868776758038528",
+    "name": "Infinite Flight",
+    "iconUrl": "https://cdn.discordapp.com/icons/914868776758038528/0cd48f7f02a8706a2baa717fd3ce410b.png"
+  },
+  "channel": {
+    "id": "916017968918437938",
+    "type": "GuildTextChat",
+    "categoryId": "956100482181505044",
+    "category": "Information",
+    "name": "rules",
+    "topic": "Welcome to the rules channel. Please take a moment to read all of our server rules below."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "952981688571543582",
+      "type": "Default",
+      "timestamp": "2022-03-14T17:29:00.099+00:00",
+      "timestampEdited": "2022-11-29T15:19:00.36+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Server Rules & Information",
+          "url": null,
+          "timestamp": null,
+          "description": "Please take a moment to read through the information below.\n\n**Rules**\n- If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!\n- Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.\n- No NSFW or obscene content. This includes text, images or links featuring nudity, sex, hard violence or any other graphically disturbing content.\n- All members must be 13+ years old.\n- Always use the correct categories.\n- Use of profanity will not be tolerated.\n- Follow Discord Terms of Service and Regulations.\n- No inappropriate server nicknames.\n- Do not impersonate members of the server including staff.\n- Please use threads where possible to keep things tidy.\n- Please only use English for communications within the server.\n- Staff and Moderators reserve the right to moderate the server as they see fit. \n- Avoid tagging staff members as they are generally very busy!\n- No political discussions \n- No inappropriate bios & profile photos \n\n**Information**\nTo gain full access to this server you must have an active Infinite Flight Pro Subscription. To link your Infinite Flight account to discord, follow these steps: \n\nLaunch Infinite Flight > Settings > Account > Connect Discord Account.\n\nPlease note if you purchase Pro after joining the server you must allow up to 24 hours to be given full access to the server. If you have any issues please do not hesitate to contact support! \n\nWe unfortunately do not use support tickets on this server. For expert support and all feature requests, please visit our community forum at community.infiniteflight.com.",
+          "color": "#FFA82E",
+          "author": {
+            "name": "Infinite Flight",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/yL2EibyJvD-8Vl0Zhmiz9gqmnLPj8c2nRixl_EzF0BM/https/cdn-longterm.mee6.xyz/plugins/embeds/images/914868776758038528/17293f0f967ff8f38d4a457359614c3ba550e905dee7b4e549ef6c1c44980848.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FHKXOzxjmRYOZ1nGicQIZ_hdT3MSYH6lUqeq8bQwgYw/https/cdn-longterm.mee6.xyz/plugins/embeds/images/914868776758038528/0ce708b1a48d50e83ae62d304431b918be6923c65ce739f6000f9f51d748ac79.png",
+            "width": 256,
+            "height": 256
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Y2IjplzD6VSkD5tk_KC0C_Z4-UQATTx4np106gA_1Ec/https/cdn-longterm.mee6.xyz/plugins/embeds/images/914868776758038528/dde6736b2a67050e13f5c8554d1214350fc9838e671e6ab5884dd375baca5141.png",
+            "width": 1455,
+            "height": 1721
+          },
+          "footer": {
+            "text": "Thank you for checking out the rules & information above. Welcome to the official Infinite Flight Discord server!"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Y2IjplzD6VSkD5tk_KC0C_Z4-UQATTx4np106gA_1Ec/https/cdn-longterm.mee6.xyz/plugins/embeds/images/914868776758038528/dde6736b2a67050e13f5c8554d1214350fc9838e671e6ab5884dd375baca5141.png",
+              "width": 1455,
+              "height": 1721
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "852865655077208135",
+            "name": "Logo1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/852865655077208135.png"
+          },
+          "count": 2702
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1655
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f4.svg"
+          },
+          "count": 488
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD19",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f919.svg"
+          },
+          "count": 621
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDED\uD83C\uDDF0",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ed-1f1f0.svg"
+          },
+          "count": 394
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDFA\uD83C\uDDF8",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg"
+          },
+          "count": 763
+        },
+        {
+          "emoji": {
+            "id": "958864173406777395",
+            "name": "Troll",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/958864173406777395.png"
+          },
+          "count": 436
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE6\uD83C\uDDF9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e6-1f1f9.svg"
+          },
+          "count": 343
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDF1",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f1.svg"
+          },
+          "count": 345
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e7-1f1f7.svg"
+          },
+          "count": 453
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF3\uD83C\uDDF4",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f3-1f1f4.svg"
+          },
+          "count": 341
+        },
+        {
+          "emoji": {
+            "id": "953073049366843423",
+            "name": "catjamming",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/953073049366843423.gif"
+          },
+          "count": 537
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEC\uD83C\uDDE7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg"
+          },
+          "count": 447
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE8\uD83C\uDDF3",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg"
+          },
+          "count": 384
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE9\uD83C\uDDEA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1e9-1f1ea.svg"
+          },
+          "count": 412
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEB\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1eb-1f1f7.svg"
+          },
+          "count": 454
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEC\uD83C\uDDF7",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1f7.svg"
+          },
+          "count": 338
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEF\uD83C\uDDF5",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ef-1f1f5.svg"
+          },
+          "count": 356
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF5\uD83C\uDDED",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1f5-1f1ed.svg"
+          },
+          "count": 396
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE\uD83C\uDDE9",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f1ee-1f1e9.svg"
+          },
+          "count": 383
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

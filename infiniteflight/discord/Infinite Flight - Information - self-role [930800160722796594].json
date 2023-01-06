@@ -1,0 +1,101 @@
+{
+  "guild": {
+    "id": "914868776758038528",
+    "name": "Infinite Flight",
+    "iconUrl": "https://cdn.discordapp.com/icons/914868776758038528/0cd48f7f02a8706a2baa717fd3ce410b.png"
+  },
+  "channel": {
+    "id": "930800160722796594",
+    "type": "GuildTextChat",
+    "categoryId": "956100482181505044",
+    "category": "Information",
+    "name": "self-role",
+    "topic": "This channel is designed to allow you to pick your own unique roles."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "957122076513288302",
+      "type": "Default",
+      "timestamp": "2022-03-26T03:41:25.509+00:00",
+      "timestampEdited": "2023-01-04T11:30:09.933+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "159985870458322944",
+        "name": "MEE6",
+        "discriminator": "4876",
+        "nickname": "MEE6",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Self Roles",
+          "url": null,
+          "timestamp": null,
+          "description": "Choose any of these roles to receive notifications at relevant times.\n\n:seat: **Group Flights** - Get tagged when another member wants to do a group flight\n:airplane: **Events** - Get tagged when an official event is posted\n:rocket: **Releases** - Get tagged when a new version of Infinite Flight is released\n:sceneryediting: **WIP:** Get tagged when a new work-in-progress (WIP) shot is posted\n :ifatc:**ATC Schedule:** Get tagged when the next ATC schedule is published",
+          "color": "#FA9822",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCBA",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f4ba.svg"
+          },
+          "count": 2537
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "✈️",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2708.svg"
+          },
+          "count": 3266
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f680.svg"
+          },
+          "count": 4035
+        },
+        {
+          "emoji": {
+            "id": "956428928514392094",
+            "name": "sceneryediting",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/956428928514392094.png"
+          },
+          "count": 2877
+        },
+        {
+          "emoji": {
+            "id": "954998472220737657",
+            "name": "ifatc",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/954998472220737657.png"
+          },
+          "count": 998
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

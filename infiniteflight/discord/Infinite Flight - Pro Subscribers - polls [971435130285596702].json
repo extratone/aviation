@@ -1,0 +1,491 @@
+{
+  "guild": {
+    "id": "914868776758038528",
+    "name": "Infinite Flight",
+    "iconUrl": "https://cdn.discordapp.com/icons/914868776758038528/0cd48f7f02a8706a2baa717fd3ce410b.png"
+  },
+  "channel": {
+    "id": "971435130285596702",
+    "type": "GuildTextChat",
+    "categoryId": "914868776758038529",
+    "category": "Pro Subscribers",
+    "name": "polls",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "971435855803723776",
+      "type": "Default",
+      "timestamp": "2022-05-04T15:39:16.429+00:00",
+      "timestampEdited": "2022-05-04T16:06:06.255+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":announce: **Calling all Infinite Flight Pro subscribers! ** \n\nCast your vote below in this exclusive subscriber poll to see one of three custom ATC towers enter future development and be guaranteed on Infinite Flight. Voting ends in `24 hours`.\n\nThe poll selections come from the list of most used airports by traffic count and makes for a true Asian showdown! Vote below to see the Tokyo Haneda (RJTT), Singapore (WSSS), or Hong Kong (VHHH) tower come to 3D life. :controltower:\n\n\n**Check out pictures of each available tower in the thread below!**\n _\uD83D\uDCF8 PC: jetphotos.net_",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971443931709591612",
+      "type": "Default",
+      "timestamp": "2022-05-04T16:11:21.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@\uD83D\uDD14 WIP - **Vote Below** \uD83D\uDC47",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "971443950143553618",
+      "type": "Default",
+      "timestamp": "2022-05-04T16:11:26.27+00:00",
+      "timestampEdited": "2022-05-05T15:42:24.568+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "616754792965865495",
+        "name": "sesh",
+        "discriminator": "1244",
+        "nickname": "sesh",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDCCA  Which custom 3D ATC tower do you want to see in Infinite Flight?  *results*",
+          "url": null,
+          "timestamp": null,
+          "description": "**[Detailed Results](https://sesh.fyi/dashboard/914868776758038528/polls/results/971443950143553618)**\n\nThe winner of this pro-only poll will be guaranteed for future development and addition to Infinite Flight.",
+          "color": "#58595B",
+          "footer": {
+            "text": "This poll has ended"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDD47 Hong Kong (VHHH)",
+              "value": "`███████████         ` | 54.09% (364)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD48 Singapore (WSSS)",
+              "value": "`████████            ` | 37.15% (250)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD49 Tokyo Haneda (RJTT)",
+              "value": "`██                  ` | 8.77% (59)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979035063146659891",
+      "type": "Default",
+      "timestamp": "2022-05-25T14:55:48.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":PollBot2: **@Pro Subscriber Poll** :PollBot2:",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979035075142369300",
+      "type": "Default",
+      "timestamp": "2022-05-25T14:55:51.506+00:00",
+      "timestampEdited": "2022-05-26T14:48:11.644+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "616754792965865495",
+        "name": "sesh",
+        "discriminator": "1244",
+        "nickname": "sesh",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDCCA  We asked on Twitter and now we're asking our Pro Subscribers! If you can only choose one, what is more important to you in a flight simulator? Explain in the thread below.  \uD83D\uDCEE  *results*",
+          "url": null,
+          "timestamp": null,
+          "description": "**[Detailed Results](https://sesh.fyi/dashboard/914868776758038528/polls/results/979035075142369300)**",
+          "color": "#58595B",
+          "footer": {
+            "text": "This poll has ended"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDD47 Weather/Lights/Atmosphere",
+              "value": "`███████████████     ` | 70.81% (723)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD48 Aircraft/Livery Selection",
+              "value": "`████                ` | 16.16% (165)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD49 Flight Characteristics",
+              "value": "`██                  ` | 9.7% (99)",
+              "isInline": false
+            },
+            {
+              "name": "Ground Elements/Services",
+              "value": "`█                   ` | 3.33% (34)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "979035301760614491",
+      "type": "ThreadCreated",
+      "timestamp": "2022-05-25T14:56:45.536+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "979035301760614491",
+        "guildId": "914868776758038528"
+      }
+    },
+    {
+      "id": "1019695121622642724",
+      "type": "ThreadCreated",
+      "timestamp": "2022-09-14T19:44:22.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "580925301169586186",
+        "name": "jasonrosewell",
+        "discriminator": "7820",
+        "nickname": "Jason",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/580925301169586186/cd81bfd80a0bc1800beec552675983dc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "971443950143553618",
+        "guildId": "914868776758038528"
+      }
+    },
+    {
+      "id": "1026568175862689923",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:55:25.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":PollBot2: @Pro Subscriber **Poll** :PollBot2: \n\nIt's time to vote for the next custom 3D ATC facility to join our artist development pipeline. For this round we'll put five of Europe's most frequented airports on Infinite Flight in a head to head match! This will be a _single round_ vote and the option with the most votes will be guaranteed for future development and implementation. **The poll closes in 72hrs on Thursday, Oct 6th, at 2000Z**\n\n**Poll Options:** ⤵️",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568271966769152",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:55:48.753+00:00",
+      "timestampEdited": "2022-10-03T18:57:42.287+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**A: Frankfurt [EDDF]**",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1026568271689941102",
+          "url": "https://cdn.discordapp.com/attachments/971435130285596702/1026568271689941102/EDDF_Tower.jpeg",
+          "fileName": "EDDF_Tower.jpeg",
+          "fileSizeBytes": 113636
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568343840366623",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:56:05.889+00:00",
+      "timestampEdited": "2022-10-03T18:57:48.308+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**B: Rome [LIRF]**",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1026568343525806131",
+          "url": "https://cdn.discordapp.com/attachments/971435130285596702/1026568343525806131/LIRF_Tower.webp",
+          "fileName": "LIRF_Tower.webp",
+          "fileSizeBytes": 36420
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568425688006716",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:56:25.403+00:00",
+      "timestampEdited": "2022-10-03T18:57:53.973+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**C: Geneva [LSGG]**",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1026568425406992504",
+          "url": "https://cdn.discordapp.com/attachments/971435130285596702/1026568425406992504/LSGG_Tower.jpeg",
+          "fileName": "LSGG_Tower.jpeg",
+          "fileSizeBytes": 153594
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568494013239397",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:56:41.693+00:00",
+      "timestampEdited": "2022-10-03T18:58:00.052+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**D: Vienna [LOWW]**",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1026568493744791652",
+          "url": "https://cdn.discordapp.com/attachments/971435130285596702/1026568493744791652/LOWW_Tower.jpeg",
+          "fileName": "LOWW_Tower.jpeg",
+          "fileSizeBytes": 273207
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568575412076605",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:57:01.1+00:00",
+      "timestampEdited": "2022-10-03T18:58:06.115+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**E: Manchester [EGCC]**",
+      "author": {
+        "id": "107294869797515264",
+        "name": "tyler",
+        "discriminator": "5190",
+        "nickname": "tyler",
+        "color": "#0CA5DA",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/107294869797515264/397a8d86c2f9909d08cc4d5621746194.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1026568575135260742",
+          "url": "https://cdn.discordapp.com/attachments/971435130285596702/1026568575135260742/EGCC_Tower.jpeg",
+          "fileName": "EGCC_Tower.jpeg",
+          "fileSizeBytes": 49466
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1026568673944682526",
+      "type": "Default",
+      "timestamp": "2022-10-03T18:57:24.592+00:00",
+      "timestampEdited": "2022-10-06T20:00:08.805+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "616754792965865495",
+        "name": "sesh",
+        "discriminator": "1244",
+        "nickname": "sesh",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\uD83D\uDCCA  Which custom 3D ATC Tower in Europe would you like to see in Infinite Flight?  *results*",
+          "url": null,
+          "timestamp": null,
+          "description": "**[Detailed Results](https://sesh.fyi/dashboard/914868776758038528/polls/results/1026568673944682526)**\n\nThe winner of this pro-only poll will be guaranteed for future development and addition to Infinite Flight. 3D tower candidates are based on most frequented airport data.",
+          "color": "#030303",
+          "footer": {
+            "text": "This poll has ended"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "\uD83E\uDD47 Frankfurt [EDDF]",
+              "value": "`██████████████      ` | 66.03% (791)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD48 Rome [LIRF]",
+              "value": "`███                 ` | 12.35% (148)",
+              "isInline": false
+            },
+            {
+              "name": "\uD83E\uDD49 Manchester [EGCC]",
+              "value": "`██                  ` | 8.26% (99)",
+              "isInline": false
+            },
+            {
+              "name": "Geneva [LSGG]",
+              "value": "`██                  ` | 7.35% (88)",
+              "isInline": false
+            },
+            {
+              "name": "Vienna [LOWW]",
+              "value": "`██                  ` | 6.01% (72)",
+              "isInline": false
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 14
+}

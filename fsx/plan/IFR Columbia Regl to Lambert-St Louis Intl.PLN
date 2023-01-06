@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KCOU to KSTL</Title>
+        <FPType>IFR</FPType>
+        <RouteType>HighAlt</RouteType>
+        <CruisingAlt>5000</CruisingAlt>
+        <DepartureID>KCOU</DepartureID>
+        <DepartureLLA>N38° 49' 11.97",W92° 13' 7.74",+000889.00</DepartureLLA>
+        <DestinationID>KSTL</DestinationID>
+        <DestinationLLA>N38° 44' 16.90",W90° 20' 49.02",+000604.00</DestinationLLA>
+        <Descr>KCOU, KSTL</Descr>
+        <DeparturePosition>PARKING 10</DeparturePosition>
+        <DepartureName>Columbia Regl</DepartureName>
+        <DestinationName>Lambert-St Louis Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>63003</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCOU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 49' 11.97",W92° 13' 7.74",+000889.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCOU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FTZ">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N38° 41' 40.19",W90° 58' 16.50",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K3</ICAORegion>
+                <ICAOIdent>FTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 44' 16.90",W90° 20' 49.02",+000604.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

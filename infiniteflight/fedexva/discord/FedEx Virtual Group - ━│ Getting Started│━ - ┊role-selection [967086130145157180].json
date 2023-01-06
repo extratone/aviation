@@ -1,0 +1,75 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "967086130145157180",
+    "type": "GuildTextChat",
+    "categoryId": "763375956144160768",
+    "category": "━│ Getting Started│━",
+    "name": "┊role-selection",
+    "topic": "Welcome to the role selection channel! here FedEx Express Virtual members will be able to select optional roles to have."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "967097502681661460",
+      "type": "Default",
+      "timestamp": "2022-04-22T16:20:12.442+00:00",
+      "timestampEdited": "2023-01-01T23:07:59.9+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Role Selection",
+          "url": null,
+          "timestamp": null,
+          "description": "Greetings FedExVA Members! \n\nThis embed has been provided to allow each member to select their desired optional roles. \nyour roles!\n\n> - :Events:  The @Event Squad Is provided for members to >receive news and updates about events in #╰va-events.\n\n> - :GroupFLight:  The @Group Flight Squad Is provided for members >to receive and give notice about their flights in #┊in-flight-chat .\n\n> -\uD83D\uDCB0 The @Double it Friday Is provided for members to >receive news and updates about the Contracts Program in >#╭programs",
+          "color": "#EE0823",
+          "author": {
+            "name": "FedEx Express Virtual",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/bZx6j98l4rRAPfAtKgUnchhumEBEWIPZn-XymoyAgxI/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/35ff0abf688dc9f5851cba33e0f942092032105a5f2e9fd1a43aa3e628e28eec.png"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/Uy5JPwc5jOCOXs1XbfLZVG0l6HsikFU_xl1-cWZGjD0/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/bdaa6a867ed6312730573c4a656cd0db6ef3c2144aa983d8aa6fb398f45ee514.png",
+            "width": 960,
+            "height": 540
+          },
+          "footer": {
+            "text": "Copyright © 2023 FedEx Express Virtual",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/I7yOR4ejlTK6nIfcNDdg37RNLuquc6evM1CTB8OR8MY/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/5a91c439d89c5640f2d9ea2db29a99b421770d492a7364d4f41f92514dae9c41.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/Uy5JPwc5jOCOXs1XbfLZVG0l6HsikFU_xl1-cWZGjD0/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/bdaa6a867ed6312730573c4a656cd0db6ef3c2144aa983d8aa6fb398f45ee514.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

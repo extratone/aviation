@@ -1,0 +1,1038 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "763494423869784094",
+    "type": "GuildTextChat",
+    "categoryId": "763375956144160768",
+    "category": "━│ Getting Started│━",
+    "name": "╰callsign-requests",
+    "topic": "*Welcome to <#763494423869784094>!! Please request your Callsign below, after verifying that particular number is not currently in use. Also please comment with what country flag you wish to have. This helps us to see where everyone is from. Thank you.*"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "763498603590844437",
+      "type": "Default",
+      "timestamp": "2020-10-07T20:30:52.214+00:00",
+      "timestampEdited": "2023-01-03T14:04:40.272+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "> `FedEx Virtual Group Staff Roster `\n\n> `» The Executive Team:`\n> \n> **FedEx 1VG:** @Jason M\n> **FedEx 2VG: -** @Chris_Pérez\n> **FedEx 3VG: -** @Tyler_L.\n> **FedEx 4VG: -** @NPreuss\n\n> `» The Director Team:`\n> \n> **FedEx 5VG:-** @Peyton\n> **FedEx 6VG: -** @Quincey\n> **FedEx 7VG: -** @cheeze\n> **FedEx 8VG: -** @Pilot_Matt\n\n`» The Manager Team:`\n> **FedEx 9VG: -**  @R34P3R\n> **FedEx 10VG: -**  @Chaz Mallett",
+      "author": {
+        "id": "247066422239428610",
+        "name": "Jason M",
+        "discriminator": "0222",
+        "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247066422239428610/bf85489396c7c6801b9c4efca8963d86.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "133685985836924928",
+          "name": "R34P3R",
+          "discriminator": "2828",
+          "nickname": "R34P3R┃FDXV 9 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "314520447389663233",
+          "name": "Pilot_Matt",
+          "discriminator": "3683",
+          "nickname": "Pilot_Matt┃FDXV 8 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "247066422239428610",
+          "name": "Jason M",
+          "discriminator": "0222",
+          "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "499788464770777088",
+          "name": "Chaz Mallett",
+          "discriminator": "8337",
+          "nickname": "Chaz M┃FDXV 10 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "814372488963293184",
+          "name": "Tyler_L.",
+          "discriminator": "1750",
+          "nickname": "Tyler L.┃FDXV 3 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "624081118089445386",
+          "name": "cheeze",
+          "discriminator": "0757",
+          "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "838472475317764106",
+          "name": "Quincey",
+          "discriminator": "4848",
+          "nickname": "Quincey┃FDXV 6 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "655271130344718356",
+          "name": "NPreuss",
+          "discriminator": "9992",
+          "nickname": "Nate┃FDXV 4 \uD83C\uDF41",
+          "isBot": false
+        },
+        {
+          "id": "986115319993081876",
+          "name": "Chris_Pérez",
+          "discriminator": "5754",
+          "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "823777035411390494",
+          "name": "Peyton",
+          "discriminator": "9285",
+          "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1021438330077986876",
+      "type": "Default",
+      "timestamp": "2022-09-19T15:11:15.297+00:00",
+      "timestampEdited": "2023-01-06T04:46:25.457+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```fix\n[- FDXV Pilot Group ONE 14-99 -]\n```\n> FedEx 14VG- @Captain Over\n> FedEx 15VG- @Ali K.\n> FedEx 16VG- @Michael Rogers \n> FedEx 17VG- @A320_Flyerboy19 \n> FedEx 20VG- @Sean.\n> FedEx 21VG- @elliss \n> FedEx 22VG- @Delta21\n> FedEx 23VG- @Pilot_Oskar\n> FedEx 24VG- @BaguetteMatty \n> FedEx 25VG- @Joshua Baez \n> FedEx 26VG- @kingfifi26\n> FedEx 27VG- @lienkwunlam\n> FedEx 28VG- @le_prince_enleve\n> FedEx 30VG- @A-10\n> FedEx 44VG- @IF.Josh\n> FedEx 46VG- @bron_SakuraENDO\n> FedEx 49VG- @Pedro_feldmann\n> FedEx 50VG- @XxNullHunterXx \n> FedEx 51VG- @\uD83D\uDE42\uD83D\uDE09\n> FedEx 55VG- @emikeholland\n> FedEx 57VG- @hyper \n> FedEx 59VG- @Coolrylan \n> FedEx 68VG- @viqbal \n> FedEx 79VG- @JerseyAnt \n> FedEx 80VG- @vaxo\n> FedEx 83VG- @PaulJ\n> FedEx 86VG- @connorniax\n> FedEx 88VG- @Murat(Vecihi)\n> FedEx 95VG- @Monty\n> FedEx 99VG- @dsrom",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "331179338240360448",
+          "name": "elliss",
+          "discriminator": "6969",
+          "nickname": "eliot┃FDXV 21 \uD83C\uDDF5\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "210795165265297409",
+          "name": "connorniax",
+          "discriminator": "7023",
+          "nickname": "connorniax┃FDXV 86 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "273832222035804161",
+          "name": "BaguetteMatty",
+          "discriminator": "1856",
+          "nickname": "BaguetteMatty┃FDXV 24 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "409103063962353664",
+          "name": "emikeholland",
+          "discriminator": "1859",
+          "nickname": "emikeholland┃FDXV 55 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "468608742250774528",
+          "name": "Captain Over",
+          "discriminator": "0261",
+          "nickname": "Captain Oveur ⚡┃FDXV 14 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "533295287519805441",
+          "name": "kingfifi26",
+          "discriminator": "0226",
+          "nickname": "kingfifi26┃FDXV 26 \uD83C\uDDE7\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "629940010107404288",
+          "name": "Coolrylan",
+          "discriminator": "0845",
+          "nickname": "Coolrylan┃FDXV 59 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "639088731399389184",
+          "name": "Joshua Baez",
+          "discriminator": "0575",
+          "nickname": "Baez305┃FDXV 25 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "640112731961425920",
+          "name": "XxNullHunterXx",
+          "discriminator": "5123",
+          "nickname": "XxNullHunterXx┃FDXV 50 \uD83C\uDDE6\uD83C\uDDFC",
+          "isBot": false
+        },
+        {
+          "id": "523433455711813641",
+          "name": "Sean.",
+          "discriminator": "2781",
+          "nickname": "Sean┃FDXV 20 \uD83C\uDDE6\uD83C\uDDFA",
+          "isBot": false
+        },
+        {
+          "id": "424953472274661386",
+          "name": "Michael Rogers",
+          "discriminator": "1619",
+          "nickname": "Michael Rogers┃FDXV 16 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "684859481594789896",
+          "name": "IF.Josh",
+          "discriminator": "0239",
+          "nickname": "IF.Josh┃FDXV 44 \uD83C\uDDEE\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "702591823050440844",
+          "name": "Pilot_Oskar",
+          "discriminator": "3608",
+          "nickname": "Pilot_Oskar┃FDXV 23 \uD83C\uDDE9\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "806324921412222976",
+          "name": "Delta21",
+          "discriminator": "4120",
+          "nickname": "David R┃FDXV 22 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1037798160837390347",
+          "name": "Pedro_feldmann",
+          "discriminator": "6121",
+          "nickname": "Pedro_feldmann┃FDXV 49 \uD83C\uDDE7\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "486197550609596436",
+          "name": "hyper",
+          "discriminator": "2130",
+          "nickname": "Hyper┃FDXV 57 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "613856745525346324",
+          "name": "Ali K.",
+          "discriminator": "0727",
+          "nickname": "Ali K.┃FDXV 15 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "778147155025068053",
+          "name": "PaulJ",
+          "discriminator": "3752",
+          "nickname": "PaulJ┃FDXV 83 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "848444971224399893",
+          "name": "le_prince_enleve",
+          "discriminator": "4116",
+          "nickname": "le_prince_enleve┃FDXV 28 \uD83C\uDDEE\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "592872926278058008",
+          "name": "\uD83D\uDE42\uD83D\uDE09",
+          "discriminator": "1234",
+          "nickname": "FedExLanding┃FDXV 51 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "688754519009525787",
+          "name": "Murat(Vecihi)",
+          "discriminator": "1192",
+          "nickname": "Murat┃FDXV 88 \uD83C\uDDF9\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "849970670204616734",
+          "name": "viqbal",
+          "discriminator": "4157",
+          "nickname": "viqbal┃FDXV 68 \uD83C\uDDEE\uD83C\uDDE9",
+          "isBot": false
+        },
+        {
+          "id": "827788512422133791",
+          "name": "Monty",
+          "discriminator": "4451",
+          "nickname": "Monty┃FDXV 95 \uD83C\uDDEE\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "719980264851505312",
+          "name": "JerseyAnt",
+          "discriminator": "6044",
+          "nickname": "JerseyAnt┃FDXV 79 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "827364576584400936",
+          "name": "bron_SakuraENDO",
+          "discriminator": "3139",
+          "nickname": "maruetsu_Fish90┃FDXV 46 \uD83C\uDDEF\uD83C\uDDF5",
+          "isBot": false
+        },
+        {
+          "id": "932623675562262568",
+          "name": "lienkwunlam",
+          "discriminator": "2764",
+          "nickname": "lienkwunlam┃FDXV 27 \uD83C\uDDED\uD83C\uDDF0",
+          "isBot": false
+        },
+        {
+          "id": "818443101193633844",
+          "name": "vaxo",
+          "discriminator": "9458",
+          "nickname": "vaxo┃FDXV 80 \uD83C\uDDEC\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "740610431349162077",
+          "name": "dsrom",
+          "discriminator": "5186",
+          "nickname": "dsrom┃FDXV 99 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "746734600226603109",
+          "name": "A320_Flyerboy19",
+          "discriminator": "5689",
+          "nickname": "A320_Flyerboy19┃FDXV 17 \uD83C\uDDFA\uD83C\uDDF2",
+          "isBot": false
+        },
+        {
+          "id": "743568875547000954",
+          "name": "A-10",
+          "discriminator": "0017",
+          "nickname": "NVaviation┃FDXV 30 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060012838908858379",
+      "type": "Default",
+      "timestamp": "2023-01-04T01:52:34.882+00:00",
+      "timestampEdited": "2023-01-05T18:18:51.182+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```fix\n[- FDXV Pilot Group Two 100 - 299 -]\n``` \n> FedEx 105VG- @xrecus\n> FedEx 106VG- @Ben Sam\n> FedEx 123VG- @jovictasor\n> FedEx 128VG- @DJSunfire\n> FedEx 136VG- @DhruvChopra\n> FedEx 148VG- @M_Pamps \n> FedEx 151VG- @Bigmo764 [AAVA151]\n> FedEx 181VG- @Capten Bocil\n> FedEx 184VG- @Pilot_Matt\n> FedEx 195VG- @Andrew_Swift\n> FedEx 197VG- @Semih\n> FedEx 212VG- @Dowellee\n> FedEx 215VG- @Orca 18\n> FedEx 224VG- @evanknight24\n> FedEx 239VG- @BryceAviation\n> FedEx 243VG- @Beemerjet243\n> FedEx 247VG- @finn_yeomans\n> FedEx 248VG- @centauridr\n> FedEx 249VG- @Marcel Breton\n> FedEx 251VG- @Axel Y.\n> FedEx 271VG- @Levi_Park\n> FedEx 273VG- @Jakebudd01\n> FedEx 275VG- @MARBLEHEAD 07\n> FedEx 294VG- @zrbond\n> FedEx 296VG- @Jetblue4you",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "395656477559226368",
+          "name": "Jetblue4you",
+          "discriminator": "2175",
+          "nickname": "Jetblue4you┃FDXV 296 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "314520447389663233",
+          "name": "Pilot_Matt",
+          "discriminator": "3683",
+          "nickname": "Pilot_Matt┃FDXV 8 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "530250535048183808",
+          "name": "Dowellee",
+          "discriminator": "0507",
+          "nickname": "Dowellee┃FDXV 212 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "372643984117334019",
+          "name": "Levi_Park",
+          "discriminator": "1810",
+          "nickname": "Levi_Park┃FDXV 271 \uD83C\uDDF0\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "528737167497887747",
+          "name": "Bigmo764 [AAVA151]",
+          "discriminator": "2901",
+          "nickname": "BigMo┃FDXV 151 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "553603724702908418",
+          "name": "Axel Y.",
+          "discriminator": "4169",
+          "nickname": "Axel Y.┃FDXV 251 \uD83C\uDDF9\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "582261190684704768",
+          "name": "Jakebudd01",
+          "discriminator": "9395",
+          "nickname": "Jakebudd01┃FDXV 273 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "659516614114541568",
+          "name": "xrecus",
+          "discriminator": "3026",
+          "nickname": "xrecus┃FDXV 105 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "936863926216433664",
+          "name": "DhruvChopra",
+          "discriminator": "1098",
+          "nickname": "DhruvChopra┃FDXV 136 \uD83C\uDDEE\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "512130128055107594",
+          "name": "Orca 18",
+          "discriminator": "5878",
+          "nickname": "Davistar┃FDXV 215 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "763368732046393355",
+          "name": "Andrew_Swift",
+          "discriminator": "5215",
+          "nickname": "Andrew_Swift┃FDXV 195 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "845156957128097802",
+          "name": "Capten Bocil",
+          "discriminator": "1157",
+          "nickname": "Capten Bocil┃FDXV 181 \uD83C\uDDEE\uD83C\uDDE9",
+          "isBot": false
+        },
+        {
+          "id": "1044766225760272394",
+          "name": "BryceAviation",
+          "discriminator": "7785",
+          "nickname": "BryceAviation┃FDXV 239 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "729004908430229524",
+          "name": "MARBLEHEAD 07",
+          "discriminator": "4773",
+          "nickname": "MARBLEHEAD 07 ┃FDXV 275 \uD83C\uDDE8\uD83C\uDDF2",
+          "isBot": false
+        },
+        {
+          "id": "761654700801261589",
+          "name": "Marcel Breton",
+          "discriminator": "3197",
+          "nickname": "Marcel Breton┃FDXV 249 \uD83C\uDDF2\uD83C\uDDFD",
+          "isBot": false
+        },
+        {
+          "id": "916792092318109717",
+          "name": "evanknight24",
+          "discriminator": "1008",
+          "nickname": "evanknight24┃FDXV 224 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "926810564364226581",
+          "name": "Ben Sam",
+          "discriminator": "9735",
+          "nickname": "Ben Sam┃FDXV 106 \uD83C\uDDE6\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "830896269940490270",
+          "name": "Beemerjet243",
+          "discriminator": "0611",
+          "nickname": "beemerjet┃FDXV 243 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "736923686132776990",
+          "name": "finn_yeomans",
+          "discriminator": "9743",
+          "nickname": "finn_yeomans┃FDXV 247 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1031960883158585384",
+          "name": "jovictasor",
+          "discriminator": "3314",
+          "nickname": "Jovictasor┃FDXV 123 \uD83C\uDDE9\uD83C\uDDF0",
+          "isBot": false
+        },
+        {
+          "id": "1035590466172891176",
+          "name": "M_Pamps",
+          "discriminator": "8134",
+          "nickname": "M_Pamps┃FDXV 148 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "670362726861897784",
+          "name": "zrbond",
+          "discriminator": "7731",
+          "nickname": "zrbond┃FDXV 294 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "692756862252089406",
+          "name": "DJSunfire",
+          "discriminator": "6672",
+          "nickname": "DJSunfire┃FDXV 128 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "838454855021756487",
+          "name": "Semih",
+          "discriminator": "2324",
+          "nickname": "Semih | FDXV 197\uD83C\uDDF9\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "930214214084231249",
+          "name": "centauridr",
+          "discriminator": "7270",
+          "nickname": "Centauridr┃FDXV 248 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060017002162434108",
+      "type": "Default",
+      "timestamp": "2023-01-04T02:09:07.479+00:00",
+      "timestampEdited": "2023-01-06T04:45:58.473+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```fix\n[- FDXV Pilot Group Three 300 - 599 -] \n```\n> FedEx 318VG- @CosmicRay\n> FedEx 333VG- @milesAV.YT\n> FedEx 341VG- @TrueGamerMoment\n> FedEx 359VG- @Ali İbrahim\n> FedEx 395VG- @Bwestman \n> FedEx 407VG- @Aman.G\n> FedEx 411VG- @jb431 \n> FedEx 415VG- @Phyrstklass \n> FedEx 416VG- @Humberto\n> FedEx 421VG- @iMAnaheim \n> FedEx 440VG- @BurritoLeo \n> FedEx 444VG- @Mouse \n> FedEx 445VG- @CCH\n> FedEx 455VG- @\uD835\uDE48\uD835\uDE5E\uD835\uDE69\uD835\uDE58\uD835\uDE5D\n> FedEx 492VG- @AxolotlsMaster \n> FedEx 498VG- @ikaikaboi808 \n> FedEx 500VG- @Oog \n> FedEx 501VG- @sprout\n> FedEx 502VG- @Okalani \n> FedEx 510VG- @JOE SPARTA \n> FedEx 527VG- @CaptainT\n> FedEx 538VG- @A-10\n> FedEx 540VG- @CheckJuan2\n> FedEx 555VG- @JBIRD\n> FedEx 589VG- @lkeilitz227289",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "338398512993533952",
+          "name": "Oog",
+          "discriminator": "1921",
+          "nickname": "Oog┃FDXV 500 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "318726714253377537",
+          "name": "iMAnaheim",
+          "discriminator": "1607",
+          "nickname": "iManaheim┃FDXV 421 \uD83C\uDDF5\uD83C\uDDED",
+          "isBot": false
+        },
+        {
+          "id": "342182537986179073",
+          "name": "ikaikaboi808",
+          "discriminator": "8509",
+          "nickname": "ikaikaboi808┃FDXV 498 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "342747502363017219",
+          "name": "CosmicRay",
+          "discriminator": "3493",
+          "nickname": "CosmicRay┃FDXV 318 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "428185477728829442",
+          "name": "jb431",
+          "discriminator": "2879",
+          "nickname": "jb431┃FDXV 411 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "591219750365954049",
+          "name": "JOE SPARTA",
+          "discriminator": "0413",
+          "nickname": "JOE SPARTA┃FDXV 510 \uD83C\uDDF0\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "996565313292353666",
+          "name": "Bwestman",
+          "discriminator": "0886",
+          "nickname": "Bwestman┃FDXV 395 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1011212451255164928",
+          "name": "CCH",
+          "discriminator": "1324",
+          "nickname": "CCH_real┃FDXV 445 \uD83C\uDDE8\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "284757811450085386",
+          "name": "Aman.G",
+          "discriminator": "5131",
+          "nickname": "Aman.G┃FDXV 407 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "538081795070099466",
+          "name": "AxolotlsMaster",
+          "discriminator": "6514",
+          "nickname": "AxolotlsMaster┃FDXV 492 \uD83C\uDDE9\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "615826215835664394",
+          "name": "\uD835\uDE48\uD835\uDE5E\uD835\uDE69\uD835\uDE58\uD835\uDE5D",
+          "discriminator": "8014",
+          "nickname": "Mitch┃FDXV 455 \uD83C\uDDE6\uD83C\uDDFA",
+          "isBot": false
+        },
+        {
+          "id": "636576198788644874",
+          "name": "Ali İbrahim",
+          "discriminator": "3964",
+          "nickname": "Ali İbrahim┃FDXV 359 \uD83C\uDDF9\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "1010025381547487252",
+          "name": "sprout",
+          "discriminator": "0027",
+          "nickname": "sprout┃FDXV 501 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "438382953035333653",
+          "name": "Mouse",
+          "discriminator": "7942",
+          "nickname": "Mouse┃FDXV 444 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "516600974438301717",
+          "name": "BurritoLeo",
+          "discriminator": "4400",
+          "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1038512977583808663",
+          "name": "lkeilitz227289",
+          "discriminator": "5672",
+          "nickname": "lkeilitz227289┃FDXV 589 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "792892758380511273",
+          "name": "Phyrstklass",
+          "discriminator": "0373",
+          "nickname": "Phyrstklass┃FDXV 415 \uD83C\uDDFA\uD83C\uDDF2",
+          "isBot": false
+        },
+        {
+          "id": "732681277655875634",
+          "name": "TrueGamerMoment",
+          "discriminator": "9421",
+          "nickname": "TrueGamerMoment┃FDXV 341 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "940930235103318067",
+          "name": "milesAV.YT",
+          "discriminator": "5290",
+          "nickname": "milesAV.YT┃FDXV 333 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "718975550378475572",
+          "name": "CaptainT",
+          "discriminator": "4143",
+          "nickname": "Captain Wally┃FDXV 527 \uD83C\uDDEC\uD83C\uDDFE",
+          "isBot": false
+        },
+        {
+          "id": "783694596801953844",
+          "name": "CheckJuan2",
+          "discriminator": "7787",
+          "nickname": "CheckJuan2┃FDXV 540 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "822509248633503824",
+          "name": "Humberto",
+          "discriminator": "8866",
+          "nickname": "Humberto┃FDXV 416 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1010119529495535697",
+          "name": "Okalani",
+          "discriminator": "3354",
+          "nickname": "Okalani┃FDXV 502 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1051257165060513902",
+          "name": "JBIRD",
+          "discriminator": "1924",
+          "nickname": "JBIRD┃FDXV 555 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "743568875547000954",
+          "name": "A-10",
+          "discriminator": "0017",
+          "nickname": "NVaviation┃FDXV 30 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060019137541316608",
+      "type": "Default",
+      "timestamp": "2023-01-04T02:17:36.593+00:00",
+      "timestampEdited": "2023-01-05T00:26:52.156+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```fix\n[- FDXV Pilot Group Four 600 - 999 -] \n```\n> FedEx 600VG- @Baba\n> FedEx 610VG- @marcello_01 \n> FedEx 617VG- @Jansen117 \n> FedEx 627VG- @sonar \n> FedEx 629VG- @BZ \n> FedEx 638VG- @trumpeteerjones \n> FedEx 649VG- @iplaygames™\n> FedEx 651VG- @Luke Taylor\n> FedEx 666VG- @N123\n> FedEx 667VG- @planespotter\n> FedEx 707VG- @NGM116\n> FedEx 716VG- @kawaiisovietball\n> FedEx 717VG- @ko en \n> FedEx 718VG- @Hopper [SLC]\n> FedEx 719VG- @drewsullivan2026 \n> FedEx 737VG- @jithin \n> FedEx 748VG- @Jonathan M \n> FedEx 759VG- @Ninja87\n> FedEx 772VG- @GWin\n> FedEx 774VG- @iiTexas_Laws\n> FedEx 775VG- @acorn \n> FedEx 777VG- @Afraz \n> FedEx 787VG- @Brent\n> FedEx 789- @Gen Av\n> FedEx 811VG- @Jasxxber \n> FedEx 831VG- @Giulio \n> FedEx 838VG- @zhuTwentySix\n> FedEx 924VG- @aviator2491\n> FedEx 981VG- @AviatorGabe\n> FedEx 983VG- @LENZA\n> FedEx 988VG- @Popskunk\n> FedEx 991VG- @angyau13\n> FedEx 992VG- @flyin_hawaiian\n> FedEx 993VG- @David Blue\n> FedEx 994VG- @Captain_Nolyn\n> FedEx 995VG- @johnsnow\n> FedEx 996VG- @SUbZero\n> FedEx 999VG- @helluu",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "106251967889690624",
+          "name": "David Blue",
+          "discriminator": "1917",
+          "nickname": "David Blue┃FDXV 993 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "221798046135091201",
+          "name": "Afraz",
+          "discriminator": "5325",
+          "nickname": "Afraz┃FDXV 777 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "398670227480772608",
+          "name": "Giulio",
+          "discriminator": "4487",
+          "nickname": "Giulio┃FDVX 831 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "604136524006555650",
+          "name": "acorn",
+          "discriminator": "9278",
+          "nickname": "Canberra┃FDXV 775 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "786679021538508800",
+          "name": "iiTexas_Laws",
+          "discriminator": "3195",
+          "nickname": "iiTexas_Laws┃FDXV 774 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "900199930759630848",
+          "name": "ko en",
+          "discriminator": "9671",
+          "nickname": "Koen┃FDXV 717 \uD83C\uDDEF\uD83C\uDDF2",
+          "isBot": false
+        },
+        {
+          "id": "935949650454790275",
+          "name": "jithin",
+          "discriminator": "4219",
+          "nickname": "jithin┃FDXV 737 \uD83C\uDDEE\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "545096093478682634",
+          "name": "Jonathan M",
+          "discriminator": "4419",
+          "nickname": "Jonathan M┃FDXV 748 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "388871152442933259",
+          "name": "Captain_Nolyn",
+          "discriminator": "6598",
+          "nickname": "Captain_Nolyn┃FDXV 994 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "281238963228901387",
+          "name": "trumpeteerjones",
+          "discriminator": "3906",
+          "nickname": "trumpeteerjones┃FDXV 638 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "489148882169757708",
+          "name": "marcello_01",
+          "discriminator": "7074",
+          "nickname": "Marcello┃FDXV 610 \uD83C\uDDEE\uD83C\uDDE9",
+          "isBot": false
+        },
+        {
+          "id": "1004852659943116942",
+          "name": "Brent",
+          "discriminator": "9386",
+          "nickname": "Brent┃FDXV 787 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1032375384483840011",
+          "name": "Jasxxber",
+          "discriminator": "6467",
+          "nickname": "Jasxxber┃FDXV 811 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "437434238493523988",
+          "name": "Hopper [SLC]",
+          "discriminator": "1380",
+          "nickname": "Hopper┃FDXV 718 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "607112784672587797",
+          "name": "kawaiisovietball",
+          "discriminator": "2208",
+          "nickname": "kawaiisovietball┃FDXV 716 \uD83C\uDDE6\uD83C\uDDFA",
+          "isBot": false
+        },
+        {
+          "id": "609026601015050260",
+          "name": "sonar",
+          "discriminator": "0627",
+          "nickname": "Sonar┃FDXV 627 \uD83C\uDDFA\uD83C\uDDF2",
+          "isBot": false
+        },
+        {
+          "id": "749088556093276181",
+          "name": "planespotter",
+          "discriminator": "2046",
+          "nickname": "avgeek.0┃FDXV 667 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "768522747516289045",
+          "name": "AviatorGabe",
+          "discriminator": "0500",
+          "nickname": "AviatorGabe┃FDXV 981 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "459803253622833182",
+          "name": "Jansen117",
+          "discriminator": "2021",
+          "nickname": "Jansen117┃FDXV 617 \uD83C\uDDF2\uD83C\uDDFD",
+          "isBot": false
+        },
+        {
+          "id": "707426154830626847",
+          "name": "zhuTwentySix",
+          "discriminator": "2642",
+          "nickname": "BillieZhu┃FDXV 838 \uD83C\uDDE8\uD83C\uDDF3",
+          "isBot": false
+        },
+        {
+          "id": "727602400998981663",
+          "name": "johnsnow",
+          "discriminator": "6120",
+          "nickname": "johnsnow┃FDXV 995 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "751833777252073504",
+          "name": "Gen Av",
+          "discriminator": "7348",
+          "nickname": "Gen Av┃FDXV 789 \uD83C\uDDE6\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "865755063946838048",
+          "name": "Baba",
+          "discriminator": "0144",
+          "nickname": "Baba┃FDXV 600 \uD83C\uDDE7\uD83C\uDDEA",
+          "isBot": false
+        },
+        {
+          "id": "915430065054035999",
+          "name": "GWin",
+          "discriminator": "3403",
+          "nickname": "GWin┃FDXV 772 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "683992774563201064",
+          "name": "Ninja87",
+          "discriminator": "7928",
+          "nickname": "Ninja┃FDXV 759 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1019397216953184296",
+          "name": "flyin_hawaiian",
+          "discriminator": "6344",
+          "nickname": "flying_hawaiian┃FDXV 992 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "710921054972936234",
+          "name": "angyau13",
+          "discriminator": "5913",
+          "nickname": "angyau┃FDXV 991 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1023934664005660713",
+          "name": "Popskunk",
+          "discriminator": "0605",
+          "nickname": "Popskunk┃FDXV 988 \uD83C\uDDF2\uD83C\uDDFD",
+          "isBot": false
+        },
+        {
+          "id": "1001140381196488764",
+          "name": "SUbZero",
+          "discriminator": "1618",
+          "nickname": "Subzero┃FDXV 996 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "713563759813066813",
+          "name": "BZ",
+          "discriminator": "8645",
+          "nickname": "BZ┃FDXV 629 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "915781921458487358",
+          "name": "aviator2491",
+          "discriminator": "1916",
+          "nickname": "aviator2491┃FDXV 924 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "700438497546207302",
+          "name": "helluu",
+          "discriminator": "3775",
+          "nickname": "helluu┃FDXV 999 \uD83C\uDDF9\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "713117283131719750",
+          "name": "NGM116",
+          "discriminator": "7094",
+          "nickname": "NGM116┃FDXV 707 \uD83C\uDDEC\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "711795462360924234",
+          "name": "iplaygames™",
+          "discriminator": "4054",
+          "nickname": "iplaygames┃FDXV 649 \uD83C\uDDE6\uD83C\uDDFA",
+          "isBot": false
+        },
+        {
+          "id": "931623523917635684",
+          "name": "N123",
+          "discriminator": "9540",
+          "nickname": "N123┃FDXV 666 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "706582869476376678",
+          "name": "LENZA",
+          "discriminator": "9287",
+          "nickname": "LENZA┃FDXV 983 \uD83C\uDDE7\uD83C\uDDF7",
+          "isBot": false
+        },
+        {
+          "id": "1057849554906665070",
+          "name": "drewsullivan2026",
+          "discriminator": "6777",
+          "nickname": "drewsullivan2026┃FDXV 719 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1008245625269268601",
+          "name": "Luke Taylor",
+          "discriminator": "7699",
+          "nickname": "BeefBoss┃FDXV 651 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 5
+}

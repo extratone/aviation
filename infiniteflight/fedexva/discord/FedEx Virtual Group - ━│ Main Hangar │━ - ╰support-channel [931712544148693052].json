@@ -1,0 +1,80 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "931712544148693052",
+    "type": "GuildTextChat",
+    "categoryId": "762513065803513867",
+    "category": "━│ Main Hangar │━",
+    "name": "╰support-channel",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "933775493021466674",
+      "type": "Default",
+      "timestamp": "2022-01-20T17:30:26.246+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "722196398635745312",
+        "name": "Ticket Tool",
+        "discriminator": "6207",
+        "nickname": "[-] Ticket Tool",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/722196398635745312/cc44968d1a71da3fb47694263deea329.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Welcome to the FedExVA support Channel!",
+          "url": null,
+          "timestamp": "2022-01-20T17:30:26.121+00:00",
+          "description": "Welcome to the FedExVA support Channel!\r\nIn this channel, FedEx Virtual Members can create support tickets in order to get help from an FedEx Virtual Staff member. Some reasons for creating a support ticket would include:\r\n\r\n➥┃ Crew Center account help.\r\n➥┃ PIREP support.\r\n➥┃Flight hour discrepancies.\r\n➥┃Flight bonus discrepancies.\r\n➥┃ FDXV Rule or policy inquiries.\r\n➥┃Pilot behavior concerns.\r\n➥┃ Any other matter that any member wishes to speak to a FedEx Virtual Staff member about in a private setting.\r\n━━━━━━━━━━━\r\nOur FedEx Virtual Staff members are normally quick to provide help in public channels or via DM, however we are providing this extra tool for those that may wish to use it.\r\n━━━━━━━━━━━\r\n**To create a ticket react with \uD83D\uDCE9**",
+          "color": "#D56A1B",
+          "author": {
+            "name": "FedExVA support",
+            "url": "https://fedexvirtual.crewsystem.net/",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/JqnXbVEHBwvln4zUe0cbSFUodTvkpKV6qZvY3-qbv38/https/fedexvirtual.crewsystem.net/uploads/awards/20210205231214.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/KTSH_2KurWY5o_srtet6-Xg_eFWsYjiV-M0qxvaJZCw/https/fedexvirtual.crewsystem.net/assets/images/fedexheader.PNG",
+            "width": 3189,
+            "height": 810
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/yG56Yl2EIzvpLC82YDsl9Ba2yttJCHFiqfprUPheAYs/https/fedexvirtual.crewsystem.net/images/Staff_Banner.png",
+            "width": 1920,
+            "height": 900
+          },
+          "footer": {
+            "text": "FedEx Virtual",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/JqnXbVEHBwvln4zUe0cbSFUodTvkpKV6qZvY3-qbv38/https/fedexvirtual.crewsystem.net/uploads/awards/20210205231214.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/yG56Yl2EIzvpLC82YDsl9Ba2yttJCHFiqfprUPheAYs/https/fedexvirtual.crewsystem.net/images/Staff_Banner.png",
+              "width": 1920,
+              "height": 900
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

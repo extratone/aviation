@@ -1,0 +1,75 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "959140768809885727",
+    "type": "GuildTextChat",
+    "categoryId": "763375956144160768",
+    "category": "━│ Getting Started│━",
+    "name": "┊pilot-ranks",
+    "topic": "All Pilot Ranks and their Operational Ability’s are posted below."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "966147272767336458",
+      "type": "Default",
+      "timestamp": "2022-04-20T01:24:19.976+00:00",
+      "timestampEdited": "2023-01-02T16:36:25.795+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pilot Rank Structure:",
+          "url": "https://fedexvirtual.crewsystem.net/pilot_ranks.php",
+          "timestamp": null,
+          "description": "```Pilot Ranks:```\n:ThirdOfficer: @Third Officer 0 - 9\n:SecondOfficer: @Second Officer  10 - 69\n:FirstOfficer: @First Officer  70 - 199 \n:FirstOfficer: @Reserve Captain  200 - 399 \n:seniorCaptain: @Line Captain  400 - 649 \n:ExecutiveCaptain: @Senior Captain  650 + \n\n*Members will need to obtain **both** the hours and XP minimums in order to promote to the next rank.*\n```Pilot Route Restrictions:```\n:ThirdOfficer: @Third Officer: Restricted to FDXV/ TNT /Atlas Air routes.\r\n:SecondOfficer:  @Second Officer : Restricted to FDXV/ TNT /Atlas Air routes.\n:FirstOfficer: @First Officer : Restricted to FDXV/ TNT /Atlas Air routes.\n:Captain: @Reserve Captain: Unlocks Codeshare routes.\n:seniorCaptain: @Line Captain Unlocks Charters.\n\n*Restrictions do not apply to events or special routes like ROTW.* \n```Pilot Rank Bonuses:```\n:Captain: @Reserve Captain  1.2X\n:seniorCaptain:  @Line Captain  1.3X\n:ExecutiveCaptain: @Senior Captain  1.4X\n\n*Captain level rank bonuses may not be combined with any other bonuses unless noted.*\n```\nPilot Rank XP Minimums:\n```\n:ThirdOfficer: @Third Officer - 0xp\n:SecondOfficer: @Second Officer - 200xp\n:FirstOfficer: @First Officer - 400xp\n:Captain: @Reserve Captain - 1,000xp\n:seniorCaptain: @Line Captain - 3,500xp\n:ExecutiveCaptain: @Senior Captain -20,000xp\n\n*Members will need to obtain **both** the hours and XP minimums in order to promote to the next rank.*",
+          "color": "#EE0823",
+          "author": {
+            "name": "FedEx Express Virtual",
+            "url": "https://fedexvirtual.crewsystem.net/",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/XDALsYGuO8avXu15ARn0sNfsGHMPjS-H9MSVocWeS8A/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/ea76b9e6091b44c5ccc6ff29f5922bcb882cbf958f6a8931a6cd5cc56e85ee3c.png"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/2_h_sPs6wZCJUMvp_GqcoKh1GovgNntDpAaReKDxhks/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/f9bd96fdd17209f1a68dd7a47bb725b4632519684228229fec7179f41143e843.png",
+            "width": 960,
+            "height": 540
+          },
+          "footer": {
+            "text": "Copyright © 2023 FedEx Virtual Group",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/UMCAAzae-Eb1UmbrvwlmTiEOev-VAz1pnoZn51J1fy0/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/5efbfa867198d2110c050a293dc7d496b8e7536ecc0da22adbea1ad79faf9040.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/2_h_sPs6wZCJUMvp_GqcoKh1GovgNntDpAaReKDxhks/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/f9bd96fdd17209f1a68dd7a47bb725b4632519684228229fec7179f41143e843.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

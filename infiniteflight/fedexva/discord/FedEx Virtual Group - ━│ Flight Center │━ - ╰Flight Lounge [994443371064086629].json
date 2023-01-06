@@ -1,0 +1,3983 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "994443371064086629",
+    "type": "GuildVoiceChat",
+    "categoryId": "883517752734797955",
+    "category": "━│ Flight Center │━",
+    "name": "╰Flight Lounge",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "999025072712978482",
+      "type": "20",
+      "timestamp": "2022-07-19T18:48:58.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999025083639152781",
+      "type": "Default",
+      "timestamp": "2022-07-19T18:49:00.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[21 Savage - Bank Account (Official Audio)](https://www.youtube.com/watch?v=sV2t3tW_JTQ)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/SvhY-RII4kQpSJ_0r5jAVZ6thPtY1tWtRzopiaXPsO8/https/img.youtube.com/vi/sV2t3tW_JTQ/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999026012346126386",
+      "type": "Default",
+      "timestamp": "2022-07-19T18:52:42.349+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Christina Perri - A Thousand Years Official Music Video](https://www.youtube.com/watch?v=rtOvBOTyX00)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jZNFC8rWz8HqIgo7M-pZwYTxusNiFo3lB_iwbfa0tXw/https/img.youtube.com/vi/rtOvBOTyX00/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999027225439522857",
+      "type": "Default",
+      "timestamp": "2022-07-19T18:57:31.573+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPnVNq55n-5_-07eO17dAoSCg1DqUDSQkTSi3mgNuOU/https/img.youtube.com/vi/FLQATzCyxfE/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999028293762285719",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:01:46.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Coldplay - Paradise (Official Video)](https://www.youtube.com/watch?v=1G4isv_Fylg)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QX9urdHVnL4PGAatRCQEw5N-m1OwSG9LaEbgfXcyF2Q/https/img.youtube.com/vi/1G4isv_Fylg/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999029390174326864",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:06:07.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Kid Cudi - Tequila Shots (Official Visualizer)](https://www.youtube.com/watch?v=lZcRSy0sk5w)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hBYtuW4j8JT4CqgyzXnHeEV610PPQlXF6WbBOAxNf5E/https/img.youtube.com/vi/lZcRSy0sk5w/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999030222970175588",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:09:26.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPnVNq55n-5_-07eO17dAoSCg1DqUDSQkTSi3mgNuOU/https/img.youtube.com/vi/FLQATzCyxfE/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999031291653673040",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:13:41.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Buddy Brown - Cool Obituary (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=Tk7QagyD9lA)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/W2YEzk-__Xd9h2OufKWCw_74xycsPQ_Bbfwbbe2-0wA/https/img.youtube.com/vi/Tk7QagyD9lA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999032221119807518",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:17:22.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Mark Morrison - Return of the Mack (Official Music Video)](https://www.youtube.com/watch?v=uB1D9wWxd2w)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9z5dzn6Nu0pNk5erGgxP5bPZ0LtT3RbDM97lyzbHl4c/https/img.youtube.com/vi/uB1D9wWxd2w/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999033173939855461",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:21:09.806+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Buddy Brown - Driving Through the Ghetto OFFICIAL](https://www.youtube.com/watch?v=xm-F9wKiH7E)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mg0GYY-8JCHmSavH35BRx94evyC3cG2zSQ-7KNwP1X4/https/img.youtube.com/vi/xm-F9wKiH7E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999034102697185370",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:24:51.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Buddy Brown \"I AM 911\" (OFFICIAL MUSIC VIDEO)](https://www.youtube.com/watch?v=7Z2yCBnlvBA)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/eG_rTFVcYJRGcXf2dx6XAC_4lulJSIadwEFOcxUhmZo/https/img.youtube.com/vi/7Z2yCBnlvBA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999034867369132142",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:27:53.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPnVNq55n-5_-07eO17dAoSCg1DqUDSQkTSi3mgNuOU/https/img.youtube.com/vi/FLQATzCyxfE/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999035950170656778",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:32:11.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Mark Morrison - Return of the Mack (Official Music Video)](https://www.youtube.com/watch?v=uB1D9wWxd2w)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9z5dzn6Nu0pNk5erGgxP5bPZ0LtT3RbDM97lyzbHl4c/https/img.youtube.com/vi/uB1D9wWxd2w/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999036902491570236",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:35:58.762+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Zac Brown Band - Chicken Fried (Official Music Video) | The Foundation](https://www.youtube.com/watch?v=e4ujS1er1r0)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pFsmWgi7v3tqwasqh3yk4PT6mcIFe1K9XkbnwVophaI/https/img.youtube.com/vi/e4ujS1er1r0/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999038048106979449",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:40:31.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Coldplay - A Sky Full Of Stars (Official Video)](https://www.youtube.com/watch?v=VPRjCeoBqrI)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0yXs_9EgAGHR-iWUXq1-YEZRo80Skd1J5Im0EA6YRQw/https/img.youtube.com/vi/VPRjCeoBqrI/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999039116119376015",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:44:46.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Mark Morrison - Return of the Mack (Official Music Video)](https://www.youtube.com/watch?v=uB1D9wWxd2w)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9z5dzn6Nu0pNk5erGgxP5bPZ0LtT3RbDM97lyzbHl4c/https/img.youtube.com/vi/uB1D9wWxd2w/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999040068150898728",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:48:33.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Leona Lewis - A Moment Like This (Official Video)](https://www.youtube.com/watch?v=sxbX-z5-QHs)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/UuWN05vyKBeI8uileIqb7SncPSlC0aDa2k9MrS3z2Bk/https/img.youtube.com/vi/sxbX-z5-QHs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999041154878283806",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:52:52.61+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Morgan Wallen: Sand In My Boots (The Dangerous Sessions)](https://www.youtube.com/watch?v=FXzE9eP1U_E)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e5d4vPtYL5svOmcyRdaC7QxXLSI3-iE2CUm5axmEV3I/https/img.youtube.com/vi/FXzE9eP1U_E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999041988835954761",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:56:11.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[21 Savage - Bank Account (Official Audio)](https://www.youtube.com/watch?v=sV2t3tW_JTQ)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/SvhY-RII4kQpSJ_0r5jAVZ6thPtY1tWtRzopiaXPsO8/https/img.youtube.com/vi/sV2t3tW_JTQ/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999042916829888675",
+      "type": "Default",
+      "timestamp": "2022-07-19T19:59:52.692+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Christina Perri - A Thousand Years Official Music Video](https://www.youtube.com/watch?v=rtOvBOTyX00)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jZNFC8rWz8HqIgo7M-pZwYTxusNiFo3lB_iwbfa0tXw/https/img.youtube.com/vi/rtOvBOTyX00/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999044129789059213",
+      "type": "Default",
+      "timestamp": "2022-07-19T20:04:41.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPnVNq55n-5_-07eO17dAoSCg1DqUDSQkTSi3mgNuOU/https/img.youtube.com/vi/FLQATzCyxfE/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999045203430232125",
+      "type": "Default",
+      "timestamp": "2022-07-19T20:08:57.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Coldplay - Paradise (Official Video)](https://www.youtube.com/watch?v=1G4isv_Fylg)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QX9urdHVnL4PGAatRCQEw5N-m1OwSG9LaEbgfXcyF2Q/https/img.youtube.com/vi/1G4isv_Fylg/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by \uD83C\uDDED\uD83C\uDDF0[CAPTAINZEUS] \uD83C\uDDFA\uD83C\uDDF8#5600",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/x8eTIO3nNIdA56QFDNqRe4WYh0qf6ZnV9RfFugdflmk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/952256709957677117/f64f28c98262a5a9483ec0b6a5472cfd.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999046298089046076",
+      "type": "Default",
+      "timestamp": "2022-07-19T20:13:18.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Kid Cudi - Tequila Shots (Official Visualizer)](https://www.youtube.com/watch?v=lZcRSy0sk5w)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hBYtuW4j8JT4CqgyzXnHeEV610PPQlXF6WbBOAxNf5E/https/img.youtube.com/vi/lZcRSy0sk5w/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047123460952194",
+      "type": "Default",
+      "timestamp": "2022-07-19T20:16:35.631+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/JPnVNq55n-5_-07eO17dAoSCg1DqUDSQkTSi3mgNuOU/https/img.youtube.com/vi/FLQATzCyxfE/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047577163026503",
+      "type": "20",
+      "timestamp": "2022-07-19T20:18:23.802+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Morgan Wallen - Sand In My Boots (Official Lyric Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Morgan Wallen - Sand In My Boots (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=7pnlOJl1m78",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/t17gDdypSZao01wMn2m0DcvHpJ8wka3ovCVtBgbfCNI/https/img.youtube.com/vi/7pnlOJl1m78/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047652408823939",
+      "type": "20",
+      "timestamp": "2022-07-19T20:18:41.742+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Easton Corbin - All Over The Road (Official Music Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Easton Corbin - All Over The Road (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=9IRNLeBoozo",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_XcHqU-6JKCBbZY-Az3ONHc0JvckhJKqVcYo-_fqBDE/https/img.youtube.com/vi/9IRNLeBoozo/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047716934008953",
+      "type": "20",
+      "timestamp": "2022-07-19T20:18:57.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Good Directions** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Good Directions",
+          "url": "https://www.youtube.com/watch?v=myr5JxC4b_I",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/74eFIz87QXqTa0xPy-QaOkMchcix5BFzHG0q7_-lXeg/https/img.youtube.com/vi/myr5JxC4b_I/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047781241069658",
+      "type": "20",
+      "timestamp": "2022-07-19T20:19:12.458+00:00",
+      "timestampEdited": "2022-07-19T20:19:25.251+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Music Queue (20 tracks)",
+          "url": null,
+          "timestamp": null,
+          "description": "**Now Playing**\n[Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE) 01:37 left \n\n`11` [Morgan Wallen: Sand In My Boots (The Dangerous Sessions)](https://www.youtube.com/watch?v=FXzE9eP1U_E) 03:15 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`12` [21 Savage - Bank Account (Official Audio)](https://www.youtube.com/watch?v=sV2t3tW_JTQ) 03:40 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`13` [Christina Perri - A Thousand Years Official Music Video](https://www.youtube.com/watch?v=rtOvBOTyX00) 04:48 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`14` [Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE) 04:14 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`15` [Coldplay - Paradise (Official Video)](https://www.youtube.com/watch?v=1G4isv_Fylg) 04:20 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`16` [Kid Cudi - Tequila Shots (Official Visualizer)](https://www.youtube.com/watch?v=lZcRSy0sk5w) 03:14 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`17` [Old Dominion - Snapback](https://www.youtube.com/watch?v=FLQATzCyxfE) 04:14 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`18` [Morgan Wallen - Sand In My Boots (Official Lyric Video)](https://www.youtube.com/watch?v=7pnlOJl1m78) 03:19 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`19` [Easton Corbin - All Over The Road (Official Music Video)](https://www.youtube.com/watch?v=9IRNLeBoozo) 02:52 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)\n`20` [Good Directions](https://www.youtube.com/watch?v=myr5JxC4b_I) 03:36 [`[remove]`](https://mee6.xyz/dashboard/762513065223782441/music#controller)",
+          "color": "#60D1F6",
+          "footer": {
+            "text": "Page 2/2"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047885465341982",
+      "type": "20",
+      "timestamp": "2022-07-19T20:19:37.307+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ Cleared **20 songs** from the queue!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999047938355507331",
+      "type": "20",
+      "timestamp": "2022-07-19T20:19:49.917+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Morgan Wallen: Sand In My Boots (The Dangerous Sessions)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Morgan Wallen: Sand In My Boots (The Dangerous Sessions)",
+          "url": "https://www.youtube.com/watch?v=FXzE9eP1U_E",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e5d4vPtYL5svOmcyRdaC7QxXLSI3-iE2CUm5axmEV3I/https/img.youtube.com/vi/FXzE9eP1U_E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048011315413042",
+      "type": "20",
+      "timestamp": "2022-07-19T20:20:07.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Good Directions** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Good Directions",
+          "url": "https://www.youtube.com/watch?v=myr5JxC4b_I",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/74eFIz87QXqTa0xPy-QaOkMchcix5BFzHG0q7_-lXeg/https/img.youtube.com/vi/myr5JxC4b_I/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048068001439814",
+      "type": "20",
+      "timestamp": "2022-07-19T20:20:20.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "\uD83D\uDEAB **This video is not available**",
+          "color": "#F04848",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048080580165782",
+      "type": "20",
+      "timestamp": "2022-07-19T20:20:23.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Easton Corbin - All Over The Road (Official Music Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Easton Corbin - All Over The Road (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=9IRNLeBoozo",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_XcHqU-6JKCBbZY-Az3ONHc0JvckhJKqVcYo-_fqBDE/https/img.youtube.com/vi/9IRNLeBoozo/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048158141222942",
+      "type": "20",
+      "timestamp": "2022-07-19T20:20:42.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Ed Sheeran - Galway Girl [Official Music Video]** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ed Sheeran - Galway Girl [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=87gWaABqGYs",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lAl6feOBs0vuzix2VXsmmsTeIyV-uWew-gsrCf5WxRE/https/img.youtube.com/vi/87gWaABqGYs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048167658115072",
+      "type": "20",
+      "timestamp": "2022-07-19T20:20:44.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Owl City & Carly Rae Jepsen - Good Time (Official Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048192291262644",
+      "type": "Default",
+      "timestamp": "2022-07-19T20:20:50.46+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Morgan Wallen: Sand In My Boots (The Dangerous Sessions)](https://www.youtube.com/watch?v=FXzE9eP1U_E)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e5d4vPtYL5svOmcyRdaC7QxXLSI3-iE2CUm5axmEV3I/https/img.youtube.com/vi/FXzE9eP1U_E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999048337116377218",
+      "type": "20",
+      "timestamp": "2022-07-19T20:21:24.989+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏸ **Player paused.** Type `/resume` to resume.",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999063155844071444",
+      "type": "20",
+      "timestamp": "2022-07-19T21:20:18.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏯ **Resuming player**",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999063835363250276",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:23:00.059+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Good Directions](https://www.youtube.com/watch?v=myr5JxC4b_I)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/74eFIz87QXqTa0xPy-QaOkMchcix5BFzHG0q7_-lXeg/https/img.youtube.com/vi/myr5JxC4b_I/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999064745858576534",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:26:37.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Easton Corbin - All Over The Road (Official Music Video)](https://www.youtube.com/watch?v=9IRNLeBoozo)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_XcHqU-6JKCBbZY-Az3ONHc0JvckhJKqVcYo-_fqBDE/https/img.youtube.com/vi/9IRNLeBoozo/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999064780679676006",
+      "type": "20",
+      "timestamp": "2022-07-19T21:26:45.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Zach Bryan - Something In The Orange** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Zach Bryan - Something In The Orange",
+          "url": "https://www.youtube.com/watch?v=lA8F9sIhGdg",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6-nSH-sfKSNJfggcMuRMybshdIqqksEdglP3lkHmARw/https/img.youtube.com/vi/lA8F9sIhGdg/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999065471666102283",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:29:30.184+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Ed Sheeran - Galway Girl Official Music Video](https://www.youtube.com/watch?v=87gWaABqGYs)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lAl6feOBs0vuzix2VXsmmsTeIyV-uWew-gsrCf5WxRE/https/img.youtube.com/vi/87gWaABqGYs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999066311395127367",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:32:50.391+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Morgan Wallen: Sand In My Boots (The Dangerous Sessions)](https://www.youtube.com/watch?v=FXzE9eP1U_E)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e5d4vPtYL5svOmcyRdaC7QxXLSI3-iE2CUm5axmEV3I/https/img.youtube.com/vi/FXzE9eP1U_E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999067137203245158",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:36:07.279+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Owl City & Carly Rae Jepsen - Good Time (Official Video)](https://www.youtube.com/watch?v=H7HmzwI67ec)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dhkg0PSSB8zIAQbiWS5V1ATBcgIDs1oKtEhJHYmMJjg/https/img.youtube.com/vi/H7HmzwI67ec/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999068018296492072",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:39:37.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Good Directions](https://www.youtube.com/watch?v=myr5JxC4b_I)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/74eFIz87QXqTa0xPy-QaOkMchcix5BFzHG0q7_-lXeg/https/img.youtube.com/vi/myr5JxC4b_I/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999068931782361098",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:43:15.14+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Easton Corbin - All Over The Road (Official Music Video)](https://www.youtube.com/watch?v=9IRNLeBoozo)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_XcHqU-6JKCBbZY-Az3ONHc0JvckhJKqVcYo-_fqBDE/https/img.youtube.com/vi/9IRNLeBoozo/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999069656579063978",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:46:07.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Zach Bryan - Something In The Orange](https://www.youtube.com/watch?v=lA8F9sIhGdg)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6-nSH-sfKSNJfggcMuRMybshdIqqksEdglP3lkHmARw/https/img.youtube.com/vi/lA8F9sIhGdg/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999070762713501796",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:50:31.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Ed Sheeran - Galway Girl Official Music Video](https://www.youtube.com/watch?v=87gWaABqGYs)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lAl6feOBs0vuzix2VXsmmsTeIyV-uWew-gsrCf5WxRE/https/img.youtube.com/vi/87gWaABqGYs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999071603184910346",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:53:52.052+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Morgan Wallen: Sand In My Boots (The Dangerous Sessions)](https://www.youtube.com/watch?v=FXzE9eP1U_E)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/e5d4vPtYL5svOmcyRdaC7QxXLSI3-iE2CUm5axmEV3I/https/img.youtube.com/vi/FXzE9eP1U_E/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999072428280008744",
+      "type": "Default",
+      "timestamp": "2022-07-19T21:57:08.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Owl City & Carly Rae Jepsen - Good Time (Official Video)](https://www.youtube.com/watch?v=H7HmzwI67ec)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dhkg0PSSB8zIAQbiWS5V1ATBcgIDs1oKtEhJHYmMJjg/https/img.youtube.com/vi/H7HmzwI67ec/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999073303941611550",
+      "type": "Default",
+      "timestamp": "2022-07-19T22:00:37.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Good Directions](https://www.youtube.com/watch?v=myr5JxC4b_I)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/74eFIz87QXqTa0xPy-QaOkMchcix5BFzHG0q7_-lXeg/https/img.youtube.com/vi/myr5JxC4b_I/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999073410053312613",
+      "type": "20",
+      "timestamp": "2022-07-19T22:01:02.843+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏸ **Player paused.** Type `/resume` to resume.",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999126580532084816",
+      "type": "20",
+      "timestamp": "2022-07-20T01:32:19.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ Cleared **7 songs** from the queue!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999126642066731049",
+      "type": "20",
+      "timestamp": "2022-07-20T01:32:34.344+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Aerosmith - Dream On (Official Audio)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aerosmith - Dream On (Official Audio)",
+          "url": "https://www.youtube.com/watch?v=89dGC8de0CA",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wTO5NyiJj_7noMuwaUJ67Fg8rXSpFtcQ1Xn_-6i9Y4A/https/img.youtube.com/vi/89dGC8de0CA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999126803744555069",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:33:12.891+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Aerosmith - Dream On (Official Audio)](https://www.youtube.com/watch?v=89dGC8de0CA)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wTO5NyiJj_7noMuwaUJ67Fg8rXSpFtcQ1Xn_-6i9Y4A/https/img.youtube.com/vi/89dGC8de0CA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999126821167702106",
+      "type": "20",
+      "timestamp": "2022-07-20T01:33:17.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Ed Sheeran - Perfect (Official Music Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ed Sheeran - Perfect (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/1KrarvY2nwLDiuKJ9CGnQoKRorgK-hCSBOZarmnVqaI/https/img.youtube.com/vi/2Vv-BfVoq4g/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999126885562851418",
+      "type": "20",
+      "timestamp": "2022-07-20T01:33:32.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Ed Sheeran - Galway Girl [Official Music Video]** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ed Sheeran - Galway Girl [Official Music Video]",
+          "url": "https://www.youtube.com/watch?v=87gWaABqGYs",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lAl6feOBs0vuzix2VXsmmsTeIyV-uWew-gsrCf5WxRE/https/img.youtube.com/vi/87gWaABqGYs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999127941764087879",
+      "type": "Default",
+      "timestamp": "2022-07-20T01:37:44.216+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Aerosmith - Dream On (Official Audio)](https://www.youtube.com/watch?v=89dGC8de0CA)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wTO5NyiJj_7noMuwaUJ67Fg8rXSpFtcQ1Xn_-6i9Y4A/https/img.youtube.com/vi/89dGC8de0CA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999128573443051541",
+      "type": "20",
+      "timestamp": "2022-07-20T01:40:14.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏸ **Player paused.** Type `/resume` to resume.",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999143419484053574",
+      "type": "20",
+      "timestamp": "2022-07-20T02:39:14.392+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏯ **Resuming player**",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999143917838680135",
+      "type": "Default",
+      "timestamp": "2022-07-20T02:41:13.209+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Ed Sheeran - Perfect (Official Music Video)](https://www.youtube.com/watch?v=2Vv-BfVoq4g)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/1KrarvY2nwLDiuKJ9CGnQoKRorgK-hCSBOZarmnVqaI/https/img.youtube.com/vi/2Vv-BfVoq4g/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999145095750238258",
+      "type": "Default",
+      "timestamp": "2022-07-20T02:45:54.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Ed Sheeran - Galway Girl Official Music Video](https://www.youtube.com/watch?v=87gWaABqGYs)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lAl6feOBs0vuzix2VXsmmsTeIyV-uWew-gsrCf5WxRE/https/img.youtube.com/vi/87gWaABqGYs/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999145934371958824",
+      "type": "Default",
+      "timestamp": "2022-07-20T02:49:13.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Now Playing",
+          "url": null,
+          "timestamp": null,
+          "description": "[Aerosmith - Dream On (Official Audio)](https://www.youtube.com/watch?v=89dGC8de0CA)",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wTO5NyiJj_7noMuwaUJ67Fg8rXSpFtcQ1Xn_-6i9Y4A/https/img.youtube.com/vi/89dGC8de0CA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999145934824943626",
+      "type": "20",
+      "timestamp": "2022-07-20T02:49:14.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏸ **Player paused.** Type `/resume` to resume.",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999145965598543984",
+      "type": "20",
+      "timestamp": "2022-07-20T02:49:21.433+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Audioslave - Like a Stone (Official Video)** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Audioslave - Like a Stone (Official Video)",
+          "url": "https://www.youtube.com/watch?v=7QU1nvuxaMA",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/3Qbk-SV7tZlwdapDgQ9uNvZVoA0dKilVMY5WacchdQY/https/img.youtube.com/vi/7QU1nvuxaMA/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by imHarrisonFPS#0264",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/LRD5gSFuawqwYgV4ipAvFGtA-LOgO5NhqgkshKSO5j8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/914323224811147325/ae10a737e38a9c1047323d3d392fad52.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999145999064911984",
+      "type": "20",
+      "timestamp": "2022-07-20T02:49:29.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏯ **Resuming player**",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999146405119672421",
+      "type": "20",
+      "timestamp": "2022-07-20T02:51:06.223+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Gord Bamford - Ain't It Grand** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gord Bamford - Ain't It Grand",
+          "url": "https://www.youtube.com/watch?v=waTDJYLMYI8",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/d0hp3FkrhXw-dIbsRIdsuVdbAA8gC-_wxeQyjKlWmLI/https/img.youtube.com/vi/waTDJYLMYI8/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999146457141616671",
+      "type": "20",
+      "timestamp": "2022-07-20T02:51:18.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **Dean Brody - Canadian Girls** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dean Brody - Canadian Girls",
+          "url": "https://www.youtube.com/watch?v=gvuHQkwMRmo",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/5uSDDx74Gqcjyocl28WW4VsfcFg8Q_bSmzNgEyEF3NM/https/img.youtube.com/vi/gvuHQkwMRmo/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999146905076518953",
+      "type": "20",
+      "timestamp": "2022-07-20T02:53:05.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "✅ **The Reklaws - \"Roots\" 2020 IIHF World Juniors** successfully added!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Reklaws - \"Roots\" 2020 IIHF World Juniors",
+          "url": "https://www.youtube.com/watch?v=kzRIKFnRQwg",
+          "timestamp": null,
+          "description": "",
+          "color": "#60D1F6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/sNkL502dx1BkKj8LhgH-DvObqWHr0xkdwZ49exiLfA8/https/img.youtube.com/vi/kzRIKFnRQwg/0.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "footer": {
+            "text": "Added by NPreuss#9992",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/QYBhgO2A9O0Vvs5U2x26jRqEc5mJ8CiMmn8iea2zaH8/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/655271130344718356/238192648f6a56e329f400f4a7e16e0d.png"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "999146949875879946",
+      "type": "20",
+      "timestamp": "2022-07-20T02:53:16.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "⏸ **Player paused.** Type `/resume` to resume.",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012961575965044756",
+      "type": "Default",
+      "timestamp": "2022-08-27T05:47:39.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hibbardthehibberd",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012962204540215347",
+      "type": "Default",
+      "timestamp": "2022-08-27T05:50:09.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ty_stroh",
+      "author": {
+        "id": "609026601015050260",
+        "name": "sonar",
+        "discriminator": "0627",
+        "nickname": "Sonar┃FDXV 627 \uD83C\uDDFA\uD83C\uDDF2",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609026601015050260/a_af5c3c0f8e863a54295a181fed0a703f.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012963668369084486",
+      "type": "Default",
+      "timestamp": "2022-08-27T05:55:58.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1012963667068854343",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1012963667068854343/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 1425687
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012963718390358057",
+      "type": "Default",
+      "timestamp": "2022-08-27T05:56:10.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m tall",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012964060112879636",
+      "type": "Default",
+      "timestamp": "2022-08-27T05:57:31.893+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1012964058259009627",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1012964058259009627/5DF8C644-7421-4E82-AD56-87E3199E5AE5.jpg",
+          "fileName": "5DF8C644-7421-4E82-AD56-87E3199E5AE5.jpg",
+          "fileSizeBytes": 4858054
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1012966256711839834",
+      "type": "Default",
+      "timestamp": "2022-08-27T06:06:15.603+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If_takeoff",
+      "author": {
+        "id": "516600974438301717",
+        "name": "BurritoLeo",
+        "discriminator": "4400",
+        "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516600974438301717/d809cb945f073d45ad432bb4129bb450.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013129165949648906",
+      "type": "Default",
+      "timestamp": "2022-08-27T16:53:36.192+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@BurritoLeo hi Burrito, it midnight here in China",
+      "author": {
+        "id": "707426154830626847",
+        "name": "zhuTwentySix",
+        "discriminator": "2642",
+        "nickname": "BillieZhu┃FDXV 838 \uD83C\uDDE8\uD83C\uDDF3",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707426154830626847/573e45c33e2c01434602ca805bcdc536.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "516600974438301717",
+          "name": "BurritoLeo",
+          "discriminator": "4400",
+          "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1013129873734258778",
+      "type": "Reply",
+      "timestamp": "2022-08-27T16:56:24.941+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "516600974438301717",
+        "name": "BurritoLeo",
+        "discriminator": "4400",
+        "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516600974438301717/d809cb945f073d45ad432bb4129bb450.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [
+        {
+          "id": "859912928369836042",
+          "name": "pika wave",
+          "format": "PngAnimated",
+          "sourceUrl": "https://discord.com/stickers/859912928369836042.png"
+        }
+      ],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "707426154830626847",
+          "name": "zhuTwentySix",
+          "discriminator": "2642",
+          "nickname": "BillieZhu┃FDXV 838 \uD83C\uDDE8\uD83C\uDDF3",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1013129165949648906",
+        "channelId": "994443371064086629",
+        "guildId": "762513065223782441"
+      }
+    },
+    {
+      "id": "1013129976247234602",
+      "type": "Reply",
+      "timestamp": "2022-08-27T16:56:49.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what are they talking about?",
+      "author": {
+        "id": "707426154830626847",
+        "name": "zhuTwentySix",
+        "discriminator": "2642",
+        "nickname": "BillieZhu┃FDXV 838 \uD83C\uDDE8\uD83C\uDDF3",
+        "color": "#9B59B6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707426154830626847/573e45c33e2c01434602ca805bcdc536.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "516600974438301717",
+          "name": "BurritoLeo",
+          "discriminator": "4400",
+          "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1013129873734258778",
+        "channelId": "994443371064086629",
+        "guildId": "762513065223782441"
+      }
+    },
+    {
+      "id": "1013151098938339360",
+      "type": "Default",
+      "timestamp": "2022-08-27T18:20:45.424+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "609026601015050260",
+        "name": "sonar",
+        "discriminator": "0627",
+        "nickname": "Sonar┃FDXV 627 \uD83C\uDDFA\uD83C\uDDF2",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609026601015050260/a_af5c3c0f8e863a54295a181fed0a703f.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1013151097977851924",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1013151097977851924/IMG_8459.png",
+          "fileName": "IMG_8459.png",
+          "fileSizeBytes": 1260560
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013151522596601876",
+      "type": "Default",
+      "timestamp": "2022-08-27T18:22:26.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "609026601015050260",
+        "name": "sonar",
+        "discriminator": "0627",
+        "nickname": "Sonar┃FDXV 627 \uD83C\uDDFA\uD83C\uDDF2",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/609026601015050260/a_af5c3c0f8e863a54295a181fed0a703f.gif?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1013151521409613945",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1013151521409613945/IMG_8459.png",
+          "fileName": "IMG_8459.png",
+          "fileSizeBytes": 1232032
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1013162028342452286",
+      "type": "Default",
+      "timestamp": "2022-08-27T19:04:11.197+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://fr24.com/N125AZ/2d3c82d9",
+      "author": {
+        "id": "516600974438301717",
+        "name": "BurritoLeo",
+        "discriminator": "4400",
+        "nickname": "BurritoLeo┃FDXV 440 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/516600974438301717/d809cb945f073d45ad432bb4129bb450.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+          "url": "https://fr24.com/N125AZ/2d3c82d9",
+          "timestamp": null,
+          "description": "View flight  on Flightradar24",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Eak-tiBLFS_ChNcit4UnFeCAxPt-iScBeJBDxmnrj38/https/images.flightradar24.com/opengraph/fr24_logo_default.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023260141350555668",
+      "type": "Default",
+      "timestamp": "2022-09-24T15:50:28.952+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah I am",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023260172002537574",
+      "type": "Default",
+      "timestamp": "2022-09-24T15:50:36.26+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry I don't have a mic currently",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023260231511322635",
+      "type": "Default",
+      "timestamp": "2022-09-24T15:50:50.448+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can go last",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023266219362623641",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:14:38.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was going to do the contract flight when I saw that you guys were doing a group flight, so I wanted to make it in for this",
+      "author": {
+        "id": "684894990631305302",
+        "name": "Captian_Prince_E",
+        "discriminator": "5541",
+        "nickname": "Captian_Prince_E",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/684894990631305302/a8a9266a5e1820aaebda0da0899a1c6f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023267555000983572",
+      "type": "Reply",
+      "timestamp": "2022-09-24T16:19:56.504+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sounds good, its an event....you can do the contract afterwards haha",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "684894990631305302",
+          "name": "Captian_Prince_E",
+          "discriminator": "5541",
+          "nickname": "Captian_Prince_E",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1023266219362623641",
+        "channelId": "994443371064086629",
+        "guildId": "762513065223782441"
+      }
+    },
+    {
+      "id": "1023267928491163648",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:21:25.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Will_Perez37 OK wonderful!",
+      "author": {
+        "id": "684894990631305302",
+        "name": "Captian_Prince_E",
+        "discriminator": "5541",
+        "nickname": "Captian_Prince_E",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/684894990631305302/a8a9266a5e1820aaebda0da0899a1c6f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "931748955426029588",
+          "name": "Will_Perez37",
+          "discriminator": "1115",
+          "nickname": "Will_Perez37",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1023271582937911406",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:35:56.839+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Jason M hi",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "247066422239428610",
+          "name": "Jason M",
+          "discriminator": "0222",
+          "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1023271625707229255",
+      "type": "Default",
+      "timestamp": "2022-09-24T16:36:07.036+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/world-star-hey-girl-hey-there-when-you-see-your-crush-feeling-yourself-gif-10605207",
+      "author": {
+        "id": "247066422239428610",
+        "name": "Jason M",
+        "discriminator": "0222",
+        "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/247066422239428610/bf85489396c7c6801b9c4efca8963d86.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1023271991022735421",
+      "type": "Reply",
+      "timestamp": "2022-09-24T16:37:34.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Charleston SC? Oh jeez, no wonder haha...I used to frequent Charleston and Columbia",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "247066422239428610",
+          "name": "Jason M",
+          "discriminator": "0222",
+          "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ],
+      "reference": {
+        "messageId": "1023271625707229255",
+        "channelId": "994443371064086629",
+        "guildId": "762513065223782441"
+      }
+    },
+    {
+      "id": "1023282288718512209",
+      "type": "Default",
+      "timestamp": "2022-09-24T17:18:29.296+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@imHarrisonFPS good to go",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "914323224811147325",
+          "name": "imHarrisonFPS",
+          "discriminator": "0264",
+          "nickname": "imHarrisonFPS",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1023287923233263708",
+      "type": "Default",
+      "timestamp": "2022-09-24T17:40:52.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "So what we doing with this American VA? Letting him go into final?",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023288157514510366",
+      "type": "Default",
+      "timestamp": "2022-09-24T17:41:48.526+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Right, thats why I am asking lo",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1023288169069826048",
+      "type": "Default",
+      "timestamp": "2022-09-24T17:41:51.281+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lol*",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1025956314599411774",
+      "type": "Default",
+      "timestamp": "2022-10-02T02:24:06.747+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1025956313781506179",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1025956313781506179/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 767762
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1028742941990203392",
+      "type": "Default",
+      "timestamp": "2022-10-09T18:57:10.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Standby! On phone with my boss",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030922657450958878",
+      "type": "Default",
+      "timestamp": "2022-10-15T19:18:35.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my god dj hahahah",
+      "author": {
+        "id": "331179338240360448",
+        "name": "elliss",
+        "discriminator": "6969",
+        "nickname": "eliot┃FDXV 21 \uD83C\uDDF5\uD83C\uDDF7",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/331179338240360448/5458df9e1189b46c6e919a524545e70f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f602.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1032428866427441154",
+      "type": "Default",
+      "timestamp": "2022-10-19T23:03:43.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Okalani  change your callsign pls",
+      "author": {
+        "id": "331179338240360448",
+        "name": "elliss",
+        "discriminator": "6969",
+        "nickname": "eliot┃FDXV 21 \uD83C\uDDF5\uD83C\uDDF7",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/331179338240360448/5458df9e1189b46c6e919a524545e70f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1010119529495535697",
+          "name": "Okalani",
+          "discriminator": "3354",
+          "nickname": "Okalani┃FDXV 502 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1033198251815477338",
+      "type": "Default",
+      "timestamp": "2022-10-22T02:00:59.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am not sure whats up lol",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033198284774314016",
+      "type": "Default",
+      "timestamp": "2022-10-22T02:01:06.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah idk",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033198323995246723",
+      "type": "Default",
+      "timestamp": "2022-10-22T02:01:16.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see you speaking but nothing is coming out",
+      "author": {
+        "id": "931748955426029588",
+        "name": "Will_Perez37",
+        "discriminator": "1115",
+        "nickname": "Will_Perez37",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/931748955426029588/806adca4112a8a4f18f8904af1d1b678.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033198389845823569",
+      "type": "Default",
+      "timestamp": "2022-10-22T02:01:32.037+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1033198389506101358",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1033198389506101358/IMG_0242.png",
+          "fileName": "IMG_0242.png",
+          "fileSizeBytes": 2024035
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033198421064032326",
+      "type": "Default",
+      "timestamp": "2022-10-22T02:01:39.48+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It should look like this",
+      "author": {
+        "id": "914323224811147325",
+        "name": "imHarrisonFPS",
+        "discriminator": "0264",
+        "nickname": "imHarrisonFPS",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/914323224811147325/3a6fee75e6004a57725738d141fbdb17.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033886696607068201",
+      "type": "Default",
+      "timestamp": "2022-10-23T23:36:37.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "838472475317764106",
+        "name": "Quincey",
+        "discriminator": "4848",
+        "nickname": "Quincey┃FDXV 6 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/838472475317764106/bcdb30e8e88516e63ae7d6bc3421a62f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1033886696347009135",
+          "url": "https://cdn.discordapp.com/attachments/994443371064086629/1033886696347009135/21397EEA-821F-4C9E-B730-15CC6D4025EB.jpg",
+          "fileName": "21397EEA-821F-4C9E-B730-15CC6D4025EB.jpg",
+          "fileSizeBytes": 1527714
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033894369314476063",
+      "type": "Default",
+      "timestamp": "2022-10-24T00:07:06.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.airlive.net/breaking-a-korean-air-a330-has-crash-landed-at-cebu-international-airport/amp/",
+      "author": {
+        "id": "823777035411390494",
+        "name": "Peyton",
+        "discriminator": "9285",
+        "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/823777035411390494/76629f4eb4828ef529442c0d19f30d8c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BREAKING A Korean Air A330 has crash-landed at Cebu International A...",
+          "url": "https://www.airlive.net/breaking-a-korean-air-a330-has-crash-landed-at-cebu-international-airport/amp/",
+          "timestamp": null,
+          "description": "A Korean Air A330 has crash-landed at Cebu International Airport during heavy rain. The Korean Air flight KE631 overshot the runway at Cebu International Airport after attempting to land twice due to poor visibility and heavy rain. Flights to Cebu International Airport are returning to their origin or are diverting to Francisco Bangoy Internatio...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/rKvw-UH0fLVIOVG6z-KobYuFsutBVcYKMh65yMBLPds/https/www.airlive.net/wp-content/uploads/2022/10/FfxDTZuUYAAvULY.jpg",
+            "width": 1080,
+            "height": 609
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1033894402264924360",
+      "type": "Default",
+      "timestamp": "2022-10-24T00:07:14.329+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It’ll buff",
+      "author": {
+        "id": "823777035411390494",
+        "name": "Peyton",
+        "discriminator": "9285",
+        "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/823777035411390494/76629f4eb4828ef529442c0d19f30d8c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040457287527055433",
+      "type": "Default",
+      "timestamp": "2022-11-11T02:45:48.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "What In the world are we doing today",
+      "author": {
+        "id": "512130128055107594",
+        "name": "Orca 18",
+        "discriminator": "5878",
+        "nickname": "Davistar┃FDXV 215 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#FF6200",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/512130128055107594/b6619f9815bc091210c025cf1b36a780.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040458209078550539",
+      "type": "Default",
+      "timestamp": "2022-11-11T02:49:27.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I’m going up for a flight shortly, probably to Alaska… @Jason M",
+      "author": {
+        "id": "512130128055107594",
+        "name": "Orca 18",
+        "discriminator": "5878",
+        "nickname": "Davistar┃FDXV 215 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#FF6200",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/512130128055107594/b6619f9815bc091210c025cf1b36a780.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "247066422239428610",
+          "name": "Jason M",
+          "discriminator": "0222",
+          "nickname": "Jason M.┃FDXV 1 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1040477399927767071",
+      "type": "Default",
+      "timestamp": "2022-11-11T04:05:43.278+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Jumping in the shower brb",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1040790650469240862",
+      "type": "Default",
+      "timestamp": "2022-11-12T00:50:28.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is it just me or does the approach flight plan look wierd",
+      "author": {
+        "id": "615826215835664394",
+        "name": "\uD835\uDE48\uD835\uDE5E\uD835\uDE69\uD835\uDE58\uD835\uDE5D",
+        "discriminator": "8014",
+        "nickname": "Mitch┃FDXV 455 \uD83C\uDDE6\uD83C\uDDFA",
+        "color": "#95A5A6",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/615826215835664394/5f08b554c635217ff78a5e3ed12fd098.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1041083629125763173",
+      "type": "Default",
+      "timestamp": "2022-11-12T20:14:39.582+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I mean UPS has like 2 aircraft they can fly",
+      "author": {
+        "id": "823777035411390494",
+        "name": "Peyton",
+        "discriminator": "9285",
+        "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/823777035411390494/76629f4eb4828ef529442c0d19f30d8c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1041090360648146944",
+      "type": "Default",
+      "timestamp": "2022-11-12T20:41:24.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Airbus 300-310 would be game changing and the 757F too",
+      "author": {
+        "id": "823777035411390494",
+        "name": "Peyton",
+        "discriminator": "9285",
+        "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/823777035411390494/76629f4eb4828ef529442c0d19f30d8c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1058577789902655528",
+      "type": "Default",
+      "timestamp": "2022-12-31T02:50:12.537+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tell her to change her sheets since they're obviously drenched.",
+      "author": {
+        "id": "318726714253377537",
+        "name": "iMAnaheim",
+        "discriminator": "1607",
+        "nickname": "iManaheim┃FDXV 421 \uD83C\uDDF5\uD83C\uDDED",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/318726714253377537/6466631c4e5cc3751874da06825d43da.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060377364212764845",
+      "type": "Default",
+      "timestamp": "2023-01-05T02:01:04.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://travelenough.com/is-orlando-airport-bigger-than-miami/",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Is Orlando Airport Bigger than Miami? - Travel Enough",
+          "url": "https://travelenough.com/is-orlando-airport-bigger-than-miami/",
+          "timestamp": null,
+          "description": "The Orlando airport is the busiest airport in Florida But how does it compare to the Miami? Is Orlando airport bigger than Miami airport?",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YXdlClNI7ihLx52pEyiHcRwEuhgI-NIuFsHqUGPmUaI/http/travelenough.com/wp-content/uploads/2022/09/orlando_miami.png",
+            "width": 1200,
+            "height": 628
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 115
+}

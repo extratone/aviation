@@ -1,0 +1,932 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "763730651756101632",
+    "type": "GuildTextChat",
+    "categoryId": "963561944034463844",
+    "category": "━│ Pilot Hangout │━",
+    "name": "┋resources",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "765699122673352714",
+      "type": "Default",
+      "timestamp": "2020-10-13T22:14:56.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765699122354847754",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765699122354847754/77F_QRH_REV12.pdf",
+          "fileName": "77F_QRH_REV12.pdf",
+          "fileSizeBytes": 1298308
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765699171675799572",
+      "type": "Default",
+      "timestamp": "2020-10-13T22:15:08.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765699171294248980",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765699171294248980/MD11F_QRH_REV05.pdf",
+          "fileName": "MD11F_QRH_REV05.pdf",
+          "fileSizeBytes": 1564571
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765699232044548106",
+      "type": "Default",
+      "timestamp": "2020-10-13T22:15:22.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765699231792103474",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765699231792103474/Vspeeds_MD11.pdf",
+          "fileName": "Vspeeds_MD11.pdf",
+          "fileSizeBytes": 232457
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765699281977868328",
+      "type": "Default",
+      "timestamp": "2020-10-13T22:15:34.828+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765699281771429938",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765699281771429938/Vspeeds_777.pdf",
+          "fileName": "Vspeeds_777.pdf",
+          "fileSizeBytes": 256085
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765761028113039400",
+      "type": "Default",
+      "timestamp": "2020-10-14T02:20:56.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765761027119120434",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765761027119120434/FDXV_Crosswind_Landings.pdf",
+          "fileName": "FDXV_Crosswind_Landings.pdf",
+          "fileSizeBytes": 8373601
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "765761294288158731",
+      "type": "Default",
+      "timestamp": "2020-10-14T02:21:59.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "765761293986431026",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/765761293986431026/FDXV_Trim_Tutorial.pdf",
+          "fileName": "FDXV_Trim_Tutorial.pdf",
+          "fileSizeBytes": 2177112
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784212313922207785",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:19:45.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "784212309806415872",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/784212309806415872/image0.JPG",
+          "fileName": "image0.JPG",
+          "fileSizeBytes": 62873
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784212314769063947",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:19:45.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "784212313812369408",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/784212313812369408/image2.PNG",
+          "fileName": "image2.PNG",
+          "fileSizeBytes": 493300
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784212317017473034",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:19:46.337+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "784212315008139305",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/784212315008139305/image3.PNG",
+          "fileName": "image3.PNG",
+          "fileSizeBytes": 712603
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784212319457902652",
+      "type": "Default",
+      "timestamp": "2020-12-04T00:19:46.919+00:00",
+      "timestampEdited": "2020-12-04T00:20:23.462+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Below are power and speed settings for our FedEx Aircraft\n@here",
+      "author": {
+        "id": "719005944540823554",
+        "name": "skydriver900",
+        "discriminator": "0888",
+        "nickname": "skydriver900",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/719005944540823554/627db8d0e4495be8de0e57a2ffd75235.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "784212316580347914",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/784212316580347914/image1.PNG",
+          "fileName": "image1.PNG",
+          "fileSizeBytes": 695293
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "866256246491316234",
+      "type": "Default",
+      "timestamp": "2021-07-18T09:53:03.426+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "428185477728829442",
+        "name": "jb431",
+        "discriminator": "2879",
+        "nickname": "jb431┃FDXV 411 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F47FFF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/428185477728829442/a4a6544411e618e4ced5ea6681b2d502.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "866256232028831784",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/866256232028831784/image0.jpg",
+          "fileName": "image0.jpg",
+          "fileSizeBytes": 113239
+        },
+        {
+          "id": "866256232447475712",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/866256232447475712/image1.jpg",
+          "fileName": "image1.jpg",
+          "fileSizeBytes": 114233
+        },
+        {
+          "id": "866256232707653653",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/866256232707653653/image2.jpg",
+          "fileName": "image2.jpg",
+          "fileSizeBytes": 117025
+        },
+        {
+          "id": "866256233047916554",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/866256233047916554/image3.jpg",
+          "fileName": "image3.jpg",
+          "fileSizeBytes": 117638
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "784576637609967616",
+            "name": "clap",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/784576637609967616.gif"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "947257868829212712",
+      "type": "Default",
+      "timestamp": "2022-02-26T22:24:35.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "[?] whats my name?",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FedExVA Links",
+          "url": null,
+          "timestamp": null,
+          "description": "**Crew Center** - https://fedexvirtual.crewsystem.net/\n\n**IFC Account** - https://community.infiniteflight.com/u/fedexvirtual/summary\n\n**IFC - Thread** - https://community.infiniteflight.com/t/fedex-virtual-keeping-the-world-on-time-official-thread-2021-22/591468",
+          "color": "#FF6200",
+          "author": {
+            "name": "FedEx Virtual",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/764896946438799382/947257569741778944/Untitled_design_89.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/msKt0WfhSTBNdvtNU8CtN-Fr5IQ77W7LI3jMCLCpb_I/https/cdn-longterm.mee6.xyz/plugins/commands/images/762513065223782441/19ab39953dfd57e55420676129b05268cea97004ffb53179eac15c41ad54002b.png",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/764896946438799382/947255660347789332/FedEx_Weekly_Humanitarian_Routes_41.png",
+            "width": 2000,
+            "height": 500
+          },
+          "footer": {
+            "text": "Copyright © 2022 FedEx Express Virtual",
+            "iconUrl": "https://media.discordapp.net/attachments/764896946438799382/947257569741778944/Untitled_design_89.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/764896946438799382/947255660347789332/FedEx_Weekly_Humanitarian_Routes_41.png",
+              "width": 2000,
+              "height": 500
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947261434998427708",
+      "type": "Default",
+      "timestamp": "2022-02-26T22:38:45.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "[?] whats my name?",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hub / Pilot Restrictions",
+          "url": null,
+          "timestamp": null,
+          "description": "**UPDATE MODIFICATION** \n*Effective  — 01/27/2022*\n\n» **Restrictions / Bonuses** - https://tinyurl.com/9fcr8par\n\n» Third Officer & Second Officer will remain restricted to assigned hubs.\n\n» First Officer & above will remain unrestricted to the hub.\n\n» Sr. First Officer & above will be allowed to operate charter flights. \n\n» Captain & above will remain able to operate partner codeshare routes. \n\n**- New Bonus for Captain level Ranks -**\n\n» Senior Captain will now enjoy a bonus of 1.2X on all flights. \n\n» Hub Captain will now enjoy a bonus of 1.4X on all flights.\n\n» Executive Captain will now enjoy a bonus of 1.6X on all flights.\n\n**- Chairman Club Bonus -**\n» The Chairman Club members will now enjoy a bonus of 2X on all flights. Members of the Chairman Club may not combine their bonus with lower pilot rank bonuses.\n\n**- PIREP Form Comments Section -**\n» Pilots are required to use the comments section on the pirep form to inform the flight log staff of which bonuses are used, if any. Failure to do so may result in a rejected pirep.",
+          "color": "#FF6200",
+          "author": {
+            "name": "FedEx Virtual",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/msKt0WfhSTBNdvtNU8CtN-Fr5IQ77W7LI3jMCLCpb_I/https/cdn-longterm.mee6.xyz/plugins/commands/images/762513065223782441/19ab39953dfd57e55420676129b05268cea97004ffb53179eac15c41ad54002b.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/msKt0WfhSTBNdvtNU8CtN-Fr5IQ77W7LI3jMCLCpb_I/https/cdn-longterm.mee6.xyz/plugins/commands/images/762513065223782441/19ab39953dfd57e55420676129b05268cea97004ffb53179eac15c41ad54002b.png",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/764896946438799382/947260752513888266/FedEx_Weekly_Humanitarian_Routes_39.png",
+            "width": 2000,
+            "height": 500
+          },
+          "footer": {
+            "text": "Copyright © 2022 FedEx Express Virtual",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/msKt0WfhSTBNdvtNU8CtN-Fr5IQ77W7LI3jMCLCpb_I/https/cdn-longterm.mee6.xyz/plugins/commands/images/762513065223782441/19ab39953dfd57e55420676129b05268cea97004ffb53179eac15c41ad54002b.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/764896946438799382/947260752513888266/FedEx_Weekly_Humanitarian_Routes_39.png",
+              "width": 2000,
+              "height": 500
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "947262995426312232",
+      "type": "Default",
+      "timestamp": "2022-02-26T22:44:57.405+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "155149108183695360",
+        "name": "Dyno",
+        "discriminator": "3861",
+        "nickname": "[?] whats my name?",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/155149108183695360/19a5ee4114b47195fcecc6646f2380b1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FedExVA - Training",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#FF6200",
+          "author": {
+            "name": "FedEx Virtual",
+            "url": null,
+            "iconUrl": "https://media.discordapp.net/attachments/764896946438799382/947257569741778944/Untitled_design_89.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/msKt0WfhSTBNdvtNU8CtN-Fr5IQ77W7LI3jMCLCpb_I/https/cdn-longterm.mee6.xyz/plugins/commands/images/762513065223782441/19ab39953dfd57e55420676129b05268cea97004ffb53179eac15c41ad54002b.png",
+            "width": 128,
+            "height": 128
+          },
+          "image": {
+            "url": "https://media.discordapp.net/attachments/763730651756101632/849894705563041812/image0.png",
+            "width": 1545,
+            "height": 2000
+          },
+          "footer": {
+            "text": "Copyright © 2022 FedEx Express Virtual",
+            "iconUrl": "https://media.discordapp.net/attachments/764896946438799382/947257569741778944/Untitled_design_89.png"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/763730651756101632/849894705563041812/image0.png",
+              "width": 1545,
+              "height": 2000
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952783331521626122",
+      "type": "Default",
+      "timestamp": "2022-03-14T04:20:48.093+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://community.infiniteflight.com/t/atc-violation-summary/656093",
+      "author": {
+        "id": "692756862252089406",
+        "name": "DJSunfire",
+        "discriminator": "6672",
+        "nickname": "DJSunfire┃FDXV 128 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692756862252089406/defbaa3bebcbefb3cf94ef4a7d59a2de.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ATC violation summary",
+          "url": "https://community.infiniteflight.com/t/atc-violation-summary/656093",
+          "timestamp": null,
+          "description": "Introduction  Hello community! In this topic I will share with you an idea that I feel will benefit everyone on the expert sever. The idea is regarding violations and the ability for controllers to provide more information to pilots after a violation has been issued.    How it will work (pilot perspective)  When pilots receive a violation it wil...",
+          "color": "#414F5C",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Z005sKjfiE5Eke_h71R6fdhyczympt5YeUYQUQSApGc/https/aws1.discourse-cdn.com/infiniteflight/original/4X/2/7/b/27bf5aee038d8dbeaa6217a872f7317ea10e098c.jpeg",
+            "width": 424,
+            "height": 141
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961906327582568508",
+      "type": "Default",
+      "timestamp": "2022-04-08T08:32:19.851+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://community.infiniteflight.com/t/what-to-say-when-inbound-for-landing/422199",
+      "author": {
+        "id": "692756862252089406",
+        "name": "DJSunfire",
+        "discriminator": "6672",
+        "nickname": "DJSunfire┃FDXV 128 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/692756862252089406/defbaa3bebcbefb3cf94ef4a7d59a2de.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "What to say when inbound for landing",
+          "url": "https://community.infiniteflight.com/t/what-to-say-when-inbound-for-landing/422199",
+          "timestamp": null,
+          "description": "Hope everyone is staying well and healthy.  With the increase of pilots on the expert server, there has also been an increase of pilots calling inbound improperly. I will teach you what to say and when.   Inbound for Landing:  Use this when you’re inbound on your own navigation (without approach frequency), or you were just handed from approach ...",
+          "color": "#414F5C",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TSYo2avTfxqpgFVfnMwqlnLES2lGGmJbWDrWwV3U1-I/https/aws1.discourse-cdn.com/infiniteflight/original/4X/7/e/c/7ec0bf8d434a0458fcc6e49a246c900172048f6b.jpeg",
+            "width": 690,
+            "height": 177
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4F",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44f.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "962098450764271706",
+      "type": "Default",
+      "timestamp": "2022-04-08T21:15:45.587+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here \n\nHeading. The direction in which the longitudinal axis of an\naircraft is pointed, usually expressed in degrees from North (true, magnetic or compass)\n\nTrack. The projection on the earth's surface of the path of an aircraft, the direction of which\npath at any point is usually expressed in degrees from North (True or Magnetic)\n\nThe wind plays a major factor in how an aircraft will move thru the air, and can actually be calculated using a pretty basic understanding of Vectors. \n\nTerms used in this process are mainly Heading (HDG), Course Made Good (CMG), and Speed Made Good (SMG). \n\nModern Autopilot is capable of automaticity countering Leeway and flying a Preset Track when in a Lateral Navigation Mode (LNAV) \n\nLeeway can be Noticed when you have an Autopilot set in a Heading Following Mode (HDG) you may drift off either Port or Starboard of your Track Line. The Perpendicular Distance off of your track is known as Drift. \n\nYou can also determine the effect on your Speed by Measuring the distance along your Past Track and comparing it to your True Speed. This is know as your Speed Made Good (SMG) and is most noticeable in the Drawn Out Scenario. \n\nIf you have any further questions about this please send me a DM and I will answer them for you.",
+      "author": {
+        "id": "655271130344718356",
+        "name": "NPreuss",
+        "discriminator": "9992",
+        "nickname": "Nate┃FDXV 4 \uD83C\uDF41",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/655271130344718356/ab49f9c310412790a7e54b09af367248.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "962098448759406673",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/962098448759406673/IMG_4158.png",
+          "fileName": "IMG_4158.png",
+          "fileSizeBytes": 253990
+        },
+        {
+          "id": "962098449090748416",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/962098449090748416/E9DE90D3-49AE-4FDB-92A5-87B3C45A94EC.jpg",
+          "fileName": "E9DE90D3-49AE-4FDB-92A5-87B3C45A94EC.jpg",
+          "fileSizeBytes": 417663
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1030921214010601563",
+      "type": "Default",
+      "timestamp": "2022-10-15T19:12:51.01+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1030921213788303513",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/1030921213788303513/F7C5FB4E-8B25-4E60-8C55-E118C242AF6A.jpg",
+          "fileName": "F7C5FB4E-8B25-4E60-8C55-E118C242AF6A.jpg",
+          "fileSizeBytes": 76883
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1035347327134736435",
+      "type": "Default",
+      "timestamp": "2022-10-28T00:20:38.612+00:00",
+      "timestampEdited": "2022-10-28T00:23:08.713+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you @Chaz Mallett for this aircraft checklist.\n\nLive Flight Deck Aircraft Checklist:",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1035347327172493354",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/1035347327172493354/PDF_document.pdf",
+          "fileName": "PDF_document.pdf",
+          "fileSizeBytes": 90721
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "499788464770777088",
+          "name": "Chaz Mallett",
+          "discriminator": "8337",
+          "nickname": "Chaz M┃FDXV 10 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1035348424104620073",
+      "type": "Default",
+      "timestamp": "2022-10-28T00:25:00.15+00:00",
+      "timestampEdited": "2022-10-28T00:27:41.529+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thank you @Chaz Mallett once again for another aircraft checklist.\n\nLegacy Aircraft Checklist:",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1035348424184303717",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/1035348424184303717/PDF_document.pdf",
+          "fileName": "PDF_document.pdf",
+          "fileSizeBytes": 89916
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "499788464770777088",
+          "name": "Chaz Mallett",
+          "discriminator": "8337",
+          "nickname": "Chaz M┃FDXV 10 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1038097107871072296",
+      "type": "Default",
+      "timestamp": "2022-11-04T14:27:17.428+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "823777035411390494",
+        "name": "Peyton",
+        "discriminator": "9285",
+        "nickname": "Peyton┃FDXV 5 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/823777035411390494/76629f4eb4828ef529442c0d19f30d8c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1038097107678142484",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/1038097107678142484/unknown.jpg",
+          "fileName": "unknown.jpg",
+          "fileSizeBytes": 28841
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "948727351464820816",
+            "name": "xar2EDM",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/948727351464820816.gif"
+          },
+          "count": 11
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1041470481364156417",
+      "type": "Default",
+      "timestamp": "2022-11-13T21:51:52.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "Fuel Burn/Hour: \nMD-11F - 18,589 lbs\nB77F - 14,731 lbs\nDC-10F - 12,535 lbs\n767 - 9,427 lbs\n757 - 7,516 lbs\n737 - 5,564 lbs\nC208 - 362 lbs",
+      "author": {
+        "id": "486197550609596436",
+        "name": "hyper",
+        "discriminator": "2130",
+        "nickname": "Hyper┃FDXV 57 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F1C40F",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/486197550609596436/7528767d5b6b501ef4804e675b5f5ba9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059358507507388507",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2023-01-02T06:32:30.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "814372488963293184",
+        "name": "Tyler_L.",
+        "discriminator": "1750",
+        "nickname": "Tyler L.┃FDXV 3 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814372488963293184/4cbfbc9fdcc81b916a409fdf84f326cb.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1041470481364156417",
+        "channelId": "763730651756101632",
+        "guildId": null
+      }
+    },
+    {
+      "id": "1059358527572955226",
+      "type": "Default",
+      "timestamp": "2023-01-02T06:32:34.903+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "814372488963293184",
+        "name": "Tyler_L.",
+        "discriminator": "1750",
+        "nickname": "Tyler L.┃FDXV 3 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/814372488963293184/4cbfbc9fdcc81b916a409fdf84f326cb.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1059358527388389426",
+          "url": "https://cdn.discordapp.com/attachments/763730651756101632/1059358527388389426/IMG_7612.png",
+          "fileName": "IMG_7612.png",
+          "fileSizeBytes": 777831
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 4
+        },
+        {
+          "emoji": {
+            "id": "832381868254429185",
+            "name": "hypeparty",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/832381868254429185.gif"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 24
+}

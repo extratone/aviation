@@ -1,0 +1,391 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "763588394575462411",
+    "type": "GuildTextChat",
+    "categoryId": "1012881798755258388",
+    "category": "━│ FDXV Programs │━",
+    "name": "╰va-events",
+    "topic": "*Welcome to the <#763588394575462411> channel!! All upcoming events will be posted in this channel so you can RSVP.*"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1059282346832048198",
+      "type": "20",
+      "timestamp": "2023-01-02T01:29:51.999+00:00",
+      "timestampEdited": "2023-01-06T04:46:25.81+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "616754792965865495",
+        "name": "sesh",
+        "discriminator": "1244",
+        "nickname": "sesh",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/616754792965865495/f1935ce8c4308521474149eeb8a51888.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": ":calendar_spiral:  **FedEx Virtual Presents | Rocky Mountain Flyout**",
+          "url": null,
+          "timestamp": null,
+          "description": "Please Join the FedEx Virtual Team as we put on the Rocky Mountain Flyout. Featuring CYYC. Head over to the IFC Link Provided Below and Sign Up by responding to the **GOING** Button on the Thread. This is going to be the Most fun the VA will have all year. So take the opportunity to fly with the Best VA out there and win some Cool Prizes along the way.",
+          "color": "#583BF7",
+          "image": {
+            "url": "https://media.discordapp.net/attachments/1058264616024670208/1058585201044897822/Untitled_design_33.png",
+            "width": 1000,
+            "height": 500
+          },
+          "footer": {
+            "text": "✅ RSVP | ⚙️ Settings | Created by Nate┃FDXV 4 \uD83C\uDF41"
+          },
+          "images": [
+            {
+              "url": "https://media.discordapp.net/attachments/1058264616024670208/1058585201044897822/Untitled_design_33.png",
+              "width": 1000,
+              "height": 500
+            }
+          ],
+          "fields": [
+            {
+              "name": "Time",
+              "value": "0204YYYY-170000 (0204YYYY-170000) [[+]](http://www.google.com/calendar/event?action=TEMPLATE&text=FedEx%20Virtual%20Presents%20%7C%20Rocky%20Mountain%20Flyout&dates=20230204T230000Z/20230205T010000Z&details=Please%20Join%20the%20FedEx%20Virtual%20Team%20as%20we%20put%20on%20the%20Rocky%20Mountain%20Flyout.%20Featuring%20CYYC.%20Head%20over%20to%20the%20IFC%20Link%20Provided%20Below%20and%20Sign%20Up%20by%20responding%20to%20the%20**GOING**%20Button%20on%20the%20Thread.%20This%20is%20going%20to%20be%20the%20Most%20fun%20the%20VA%20will%20have%20all%20year.%20So%20take%20the%20opportunity%20to%20fly%20with%20the%20Best%20VA%20out%20there%20and%20win%20some%20Cool%20Prizes%20along%20the%20way.&location=)",
+              "isInline": false
+            },
+            {
+              "name": "Timezone Conversions",
+              "value": "Saturday, February 04 18:00 EST",
+              "isInline": false
+            },
+            {
+              "name": "Duration",
+              "value": "2 hours",
+              "isInline": false
+            },
+            {
+              "name": "Attendees (8)",
+              "value": ">>> @Unknown\n@Unknown\n@Unknown\n@Unknown\n@Unknown\n@Unknown\n@Unknown\n@Unknown",
+              "isInline": true
+            }
+          ]
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059283039009636512",
+      "type": "Default",
+      "timestamp": "2023-01-02T01:32:37.027+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://community.infiniteflight.com/t/04feb23-fedex-virtual-presents-the-rocky-mountain-flyout-cyyc/759853",
+      "author": {
+        "id": "655271130344718356",
+        "name": "NPreuss",
+        "discriminator": "9992",
+        "nickname": "Nate┃FDXV 4 \uD83C\uDF41",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/655271130344718356/ab49f9c310412790a7e54b09af367248.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "04FEB23 | FedEx Virtual Presents the Rocky Mountain Flyout | CYYC",
+          "url": "https://community.infiniteflight.com/t/04feb23-fedex-virtual-presents-the-rocky-mountain-flyout-cyyc/759853",
+          "timestamp": null,
+          "description": "FedEx Virtual Presents Rocky Mountain Flyout!  Calgary International Airport (CYYC) Presented by @FedExVirtual  Hosted by: @NathanPreuss & @CaptainRex_Aviation     FedEx Virtual Group  |Crew Center |Twitter |Join Us |IFC Thread |   Fedex VG has grown exponentially since our reinstatement after a brief hiatus during a change of ownership. Since t...",
+          "color": "#414F5C",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/VsMkxF5JZvEOKlIQVWHcSso2X6HqpFfVKSodIxVUUXs/https/aws1.discourse-cdn.com/infiniteflight/original/4X/b/c/2/bc2a0e52ea86abde448c7db46ddfd11274a13d22.png",
+            "width": 936,
+            "height": 468
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060706785918464050",
+      "type": "Default",
+      "timestamp": "2023-01-05T23:50:04.742+00:00",
+      "timestampEdited": "2023-01-06T00:36:07.053+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":info: __**Stargazing**__ :info:\n\n:megaphone: **EVENT NOTAM's:** :megaphone: \n\n1. Please copy **FDXV 007's** FPL\n\n2. Please make sure to use ATC CTAF during the flight\n\n3. Please follow  __**ALL IFATC instructions**__ , if and when there is IFATC present. **Deviate from FPL if instructed to do so**.\n\n4. Please keep a **5-7 NM** distance while departing and **12-15 NM** throughout cruise.\n\n5. Lastly and most importantly __HAVE FUN!!__\n\n\n> Departure: **KOAK**\n> \n> Arrival: **KABQ**\n> \n> Flight Time: **2:00 +/-**\n> \n> Aircraft: **Infinite Flight B752**\n> \n> Cruise: **FL370**\n> \n> Cruise Speed: **M 0.80**\n> \n> Climb Profile: **3000 / 2500**\n> \n> Speed Profile: **240 / 300 / 0.80**\n> \n> FOB: **~ 23000 lbs**\n\n\n-------------GATES // PUSHBACK ORDER:-------------\n\n__Please pushback in the order shown below:__\n\n\n**FedEx Ramp 6:** @cheeze \n\n**FedEx Ramp 2:** @Pilot_Matt \n\n**FedEx Ramp 1 :** @R34P3R \n\n**FedEx Ramp 9:** @CaptainT \n\n**FedEx Ramp 10:** @Delta21 \n\n**FedEx Ramp 12:** @iiTexas_Laws \n\n**FedEx Ramp 13:** @Dowellee \n\n**FedEx Ramp 14:** @AviatorGabe \n\n**FedEx Ramp 15:** @Popskunk \n\n\nMore gates are available!! Please press the :ddrarrowright: ✅ :ddrarrowleft: on the sesh bot to RSVP before the event starts.\n\n\n@cheeze \uD83C\uDDE8\uD83C\uDDE6 \n@Events Director \n\"Keeping The World On Time\"",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "133685985836924928",
+          "name": "R34P3R",
+          "discriminator": "2828",
+          "nickname": "R34P3R┃FDXV 9 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "314520447389663233",
+          "name": "Pilot_Matt",
+          "discriminator": "3683",
+          "nickname": "Pilot_Matt┃FDXV 8 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "530250535048183808",
+          "name": "Dowellee",
+          "discriminator": "0507",
+          "nickname": "Dowellee┃FDXV 212 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "786679021538508800",
+          "name": "iiTexas_Laws",
+          "discriminator": "3195",
+          "nickname": "iiTexas_Laws┃FDXV 774 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "806324921412222976",
+          "name": "Delta21",
+          "discriminator": "4120",
+          "nickname": "David R┃FDXV 22 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "1023934664005660713",
+          "name": "Popskunk",
+          "discriminator": "0605",
+          "nickname": "Popskunk┃FDXV 988 \uD83C\uDDF2\uD83C\uDDFD",
+          "isBot": false
+        },
+        {
+          "id": "624081118089445386",
+          "name": "cheeze",
+          "discriminator": "0757",
+          "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+          "isBot": false
+        },
+        {
+          "id": "718975550378475572",
+          "name": "CaptainT",
+          "discriminator": "4143",
+          "nickname": "Captain Wally┃FDXV 527 \uD83C\uDDEC\uD83C\uDDFE",
+          "isBot": false
+        },
+        {
+          "id": "768522747516289045",
+          "name": "AviatorGabe",
+          "discriminator": "0500",
+          "nickname": "AviatorGabe┃FDXV 981 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060717741369208922",
+      "type": "Default",
+      "timestamp": "2023-01-06T00:33:36.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Event Squad \n\n:megaphone: :megaphone: **:FDXV:  EVENT TIME**:megaphone: :megaphone: \n\nPlease spawn into your assigned gates. Flight plan is ready to copy :3090bbcd4b9149b6a5e71ed0265562de:",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060721721595920465",
+      "type": "Default",
+      "timestamp": "2023-01-06T00:49:25.685+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Delta21  @iiTexas_Laws @AviatorGabe  time to spawn in we are leaving shortly",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "786679021538508800",
+          "name": "iiTexas_Laws",
+          "discriminator": "3195",
+          "nickname": "iiTexas_Laws┃FDXV 774 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "806324921412222976",
+          "name": "Delta21",
+          "discriminator": "4120",
+          "nickname": "David R┃FDXV 22 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "768522747516289045",
+          "name": "AviatorGabe",
+          "discriminator": "0500",
+          "nickname": "AviatorGabe┃FDXV 981 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060722966737981450",
+      "type": "Default",
+      "timestamp": "2023-01-06T00:54:22.55+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "commence push",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060749443193917550",
+      "type": "Default",
+      "timestamp": "2023-01-06T02:39:35.029+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Pilot_Matt @R34P3R @Dowellee @Popskunk \nThanks for attending Stargazing! Enjoy your **2.5x Bonus** upon landing!",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "133685985836924928",
+          "name": "R34P3R",
+          "discriminator": "2828",
+          "nickname": "R34P3R┃FDXV 9 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "314520447389663233",
+          "name": "Pilot_Matt",
+          "discriminator": "3683",
+          "nickname": "Pilot_Matt┃FDXV 8 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        },
+        {
+          "id": "530250535048183808",
+          "name": "Dowellee",
+          "discriminator": "0507",
+          "nickname": "Dowellee┃FDXV 212 \uD83C\uDDEC\uD83C\uDDE7",
+          "isBot": false
+        },
+        {
+          "id": "1023934664005660713",
+          "name": "Popskunk",
+          "discriminator": "0605",
+          "nickname": "Popskunk┃FDXV 988 \uD83C\uDDF2\uD83C\uDDFD",
+          "isBot": false
+        }
+      ]
+    },
+    {
+      "id": "1060749553462149221",
+      "type": "Default",
+      "timestamp": "2023-01-06T02:40:01.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "distance is 827nm when flying",
+      "author": {
+        "id": "624081118089445386",
+        "name": "cheeze",
+        "discriminator": "0757",
+        "nickname": "Colby The G┃FDXV 7 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#40C4FF",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/624081118089445386/204c44d50624c1fe43496cfc235ff5e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

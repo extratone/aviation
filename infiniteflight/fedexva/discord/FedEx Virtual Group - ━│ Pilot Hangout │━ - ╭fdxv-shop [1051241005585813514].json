@@ -1,0 +1,200 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "1051241005585813514",
+    "type": "GuildTextChat",
+    "categoryId": "963561944034463844",
+    "category": "━│ Pilot Hangout │━",
+    "name": "╭fdxv-shop",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1051335100958253056",
+      "type": "Default",
+      "timestamp": "2022-12-11T03:10:20.93+00:00",
+      "timestampEdited": "2023-01-04T01:50:13.391+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone New FedExVA Shop is here!!",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "FedExVA Shop",
+          "url": null,
+          "timestamp": null,
+          "description": "━━━━━━━━━━━━━━━\n**Prices:**\n• Out of Rank Charter - $2,000\n• Out of Rank Codeshare - $1,500\n• 30 Day Activity Pass: - $30,000\n• Cash to XP Trade In $5 - 1XP\n• 2X Flight Time Multiplier - $5,000\n*bonuses are non-combinable with other bonuses.*\n*items one time pay per use.*\n━━━━━━━━━━━━━━━\n**Procedure:**\n*• To purchase any of the above items, simply comment below what item you wish to buy. You do not need to wait for a staff member to approve before using your item.*\n\n*• A staff member will follow up by creating a thread and informing you the transaction has been completed.*\n━━━━━━━━━━━━━━━\n**Post Example:**\n`User┃FDXV 000 requesting Item for $XXX`\n━━━━━━━━━━━━━━━\n**How do you earn money?**\n*• Members get $1 per nautical mile flown on approved PIREPs.*\n━━━━━━━━━━━━━━━\n*• FedEx Virtual Group retains the rights to increase or decrease prices with or without notice.*\n*• FedEx Virtual Group retains the rights to add new items or discontinue items with or without notice.*",
+          "color": "#FFD74E",
+          "author": {
+            "name": "FedExVA",
+            "url": null,
+            "iconUrl": "https://images-ext-2.discordapp.net/external/Rpfq7-X3wk2u0MNjA6yF-qzAI7yZUjkLY0M2wdNqjBE/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/2f31033a55ff82296a26f52967b89108a48aa0d605d586a4bbaad8fb090b346d.png"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ze-hdD0EFpcb8f5psZFrA7pi7_dRIWzh4EkMHlDMNGQ/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/247369ba368fdcb7201ae4b10e809a2e128b94fbc27ed44661f0ad6e292d7af3.png",
+            "width": 512,
+            "height": 512
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/ZXDbShfG2aBlihYBh5R4PKOqGwdaFOVEZg5Cx3EXQ64/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/da3934f02c456f00d2cca12c6b1417fc512bb4ff6a59922b9ff7d7cb129819d3.png",
+            "width": 960,
+            "height": 540
+          },
+          "footer": {
+            "text": "Copyright © 2022-23 FedEx Express Virtual",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/7XK0mwFcFdOWFUrArsJ4mb9HxP7ozM7pr0zqiP1wE80/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/0df453509e71867f99bc1d253d5290bfb952c63b81242a3af6bf5573409591a2.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-2.discordapp.net/external/ZXDbShfG2aBlihYBh5R4PKOqGwdaFOVEZg5Cx3EXQ64/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/da3934f02c456f00d2cca12c6b1417fc512bb4ff6a59922b9ff7d7cb129819d3.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f44d.svg"
+          },
+          "count": 11
+        },
+        {
+          "emoji": {
+            "id": "963482437273395280",
+            "name": "fedExBucks",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/963482437273395280.png"
+          },
+          "count": 12
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f60d.svg"
+          },
+          "count": 10
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE31",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/1f631.svg"
+          },
+          "count": 8
+        },
+        {
+          "emoji": {
+            "id": "832381868254429185",
+            "name": "hypeparty",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/832381868254429185.gif"
+          },
+          "count": 8
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1058126268077445241",
+      "type": "Default",
+      "timestamp": "2022-12-29T20:56:01.345+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can I get the one month activity check pass pls? Thx",
+      "author": {
+        "id": "930214214084231249",
+        "name": "centauridr",
+        "discriminator": "7270",
+        "nickname": "Centauridr┃FDXV 248 \uD83C\uDDE8\uD83C\uDDE6",
+        "color": "#85C441",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/930214214084231249/1214ff7953a0331c3e5c67e3015315c1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1060767885959643156",
+      "type": "Default",
+      "timestamp": "2023-01-06T03:52:52.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Chris_Pérez Requesting a 2x Multiplier = $5,000",
+      "author": {
+        "id": "986115319993081876",
+        "name": "Chris_Pérez",
+        "discriminator": "5754",
+        "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+        "color": "#F80130",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/986115319993081876/fe9925e2d0b5cf924bb08537ba727b76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "✅",
+            "isAnimated": false,
+            "imageUrl": "https://twemoji.maxcdn.com/v/latest/svg/2705.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "986115319993081876",
+          "name": "Chris_Pérez",
+          "discriminator": "5754",
+          "nickname": "Chris P.┃FDXV 2 \uD83C\uDDFA\uD83C\uDDF8",
+          "isBot": false
+        }
+      ]
+    }
+  ],
+  "messageCount": 3
+}

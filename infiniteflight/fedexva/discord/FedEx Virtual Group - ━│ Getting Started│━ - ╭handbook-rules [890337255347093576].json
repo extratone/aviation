@@ -1,0 +1,75 @@
+{
+  "guild": {
+    "id": "762513065223782441",
+    "name": "FedEx Virtual Group",
+    "iconUrl": "https://cdn.discordapp.com/icons/762513065223782441/88dbf7a2f565ae875404a1d18e3107ca.png"
+  },
+  "channel": {
+    "id": "890337255347093576",
+    "type": "GuildTextChat",
+    "categoryId": "763375956144160768",
+    "category": "━│ Getting Started│━",
+    "name": "╭handbook-rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "965674927929847868",
+      "type": "Default",
+      "timestamp": "2022-04-18T18:07:24.191+00:00",
+      "timestampEdited": "2023-01-01T22:23:24.09+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "963468880196558988",
+        "name": "FedexVA Systems",
+        "discriminator": "1781",
+        "nickname": "FedexVA Systems",
+        "color": "#D2B48C",
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/963468880196558988/45ceb58d212aab6fc120ee62138a099b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rules Acknowledgement:",
+          "url": null,
+          "timestamp": null,
+          "description": "1️⃣ English must be used in all forms of communication in the public and operational channels.\r\n\r\n2️⃣ Keep all communication relevant to the channel's purpose. Read the channel description for additional details.\r\n\r\n3️⃣  Do not use any language which may be deemed offensive, including, but not limited to, language that is unlawful, threatening, vulgar, sexually explicit, swearing or racially, ethnically, or otherwise objectionable. This is relevant to both written and voice communications within the VA\r\n\r\n4️⃣ Do not impersonate another user or falsify your identity in an effort to bypass Discord, Infinite Flight, or FedEx Virtual rules and regulations.\r\n\r\n5️⃣  Do not share any material which may be inappropriate, copyrighted, or make other members uncomfortable in any way.\r\n\r\n6️⃣ No promotion of any other Discord servers will be allowed anywhere on this server.\r\n\r\n7️⃣  No political talk in any channel. Politics has no place in this Discord.\n\r\n\r\n*The FedEx Express Virtual Chief Team reserves the right to makes changes to the Discord Server rules at any time.*\n\n━━ **FedEx Virtual Handbook** ━━\nhttps://fedexvirtual.crewsystem.net/Handbook.php",
+          "color": "#EE0823",
+          "author": {
+            "name": "FedEx Virtual Group",
+            "url": "https://fedexvirtual.crewsystem.net/",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/gtQV4-U0yiGp7Gd0v3ztWOBaepvnDwTdUDL6NIs8nE4/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/db40c404cbab66ebd52134ca4a10b50563e4c5e12eef621a37675f8c8b58bddf.png"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/02sepB5M8RKLo2zve3yFV6S-FmWlNZhve4Btit9DDXM/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/8f2efeab9ae48ec0a7c693216c909765fad50ceb435c32dd6272c6acbdbfc55d.png",
+            "width": 960,
+            "height": 540
+          },
+          "footer": {
+            "text": "Copyright © 2023 FedEx Virtual Group",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/dSWhlmRD-A4_AQlskc8t63uZeUnnpVYt6PIig28QZPQ/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/1503b3b068b2d93e94ea54a080346d86f13458b8d2f9aca6bde33b6900d50fa9.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/02sepB5M8RKLo2zve3yFV6S-FmWlNZhve4Btit9DDXM/https/cdn-longterm.mee6.xyz/plugins/embeds/images/762513065223782441/8f2efeab9ae48ec0a7c693216c909765fad50ceb435c32dd6272c6acbdbfc55d.png",
+              "width": 960,
+              "height": 540
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

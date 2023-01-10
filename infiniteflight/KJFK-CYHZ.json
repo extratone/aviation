@@ -1,244 +1,244 @@
 {
-    "flight-plan": {
-        "$": {
-            "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
-            "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
-            "xmlns": "http://www8.garmin.com/xmlschemas/FlightPlan/v1"
-        },
-        "waypoint-table": [
-            {
-                "waypoint": [
-                    {
-                        "identifier": [
-                            "KJFK"
-                        ],
-                        "type": [
-                            "AIRPORT"
-                        ],
-                        "lat": [
-                            "40.6401381492615"
-                        ],
-                        "lon": [
-                            "-73.7765207290649"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "MERIT"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "41.381945"
-                        ],
-                        "lon": [
-                            "-73.13724306"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "KHFD"
-                        ],
-                        "type": [
-                            "AIRPORT"
-                        ],
-                        "lat": [
-                            "41.735668182373"
-                        ],
-                        "lon": [
-                            "-72.6509799957275"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "PUTNM"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "41.95529583"
-                        ],
-                        "lon": [
-                            "-71.84391"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "KBOS"
-                        ],
-                        "type": [
-                            "AIRPORT"
-                        ],
-                        "lat": [
-                            "42.3629884719849"
-                        ],
-                        "lon": [
-                            "-71.0068467458089"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "COPLY"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "42.49778361"
-                        ],
-                        "lon": [
-                            "-70.55779361"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "SCUPP"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "42.60305583"
-                        ],
-                        "lon": [
-                            "-70.2302875"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "TUSKY"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "43.565"
-                        ],
-                        "lon": [
-                            "-67"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "ETGAR"
-                        ],
-                        "type": [
-                            "INT"
-                        ],
-                        "lat": [
-                            "44.41918333"
-                        ],
-                        "lon": [
-                            "-64.1628"
-                        ]
-                    },
-                    {
-                        "identifier": [
-                            "CYHZ"
-                        ],
-                        "type": [
-                            "AIRPORT"
-                        ],
-                        "lat": [
-                            "44.8825483322144"
-                        ],
-                        "lon": [
-                            "-63.5104484558106"
-                        ]
-                    }
-                ]
-            }
-        ],
-        "route": [
-            {
-                "route-name": [
-                    "John F. Kennedy Intl to Halifax/Stanfield International Airport"
-                ],
-                "route-point": [
-                    {
-                        "waypoint-identifier": [
-                            "KJFK"
-                        ],
-                        "waypoint-type": [
-                            "AIRPORT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "MERIT"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "KHFD"
-                        ],
-                        "waypoint-type": [
-                            "AIRPORT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "PUTNM"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "KBOS"
-                        ],
-                        "waypoint-type": [
-                            "AIRPORT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "COPLY"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "SCUPP"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "TUSKY"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "ETGAR"
-                        ],
-                        "waypoint-type": [
-                            "INT"
-                        ]
-                    },
-                    {
-                        "waypoint-identifier": [
-                            "CYHZ"
-                        ],
-                        "waypoint-type": [
-                            "AIRPORT"
-                        ]
-                    }
-                ]
-            }
+  "flight-plan": {
+    "$": {
+      "xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+      "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+      "xmlns": "http://www8.garmin.com/xmlschemas/FlightPlan/v1"
+    },
+    "waypoint-table": [
+      {
+        "waypoint": [
+          {
+            "identifier": [
+              "KJFK"
+            ],
+            "type": [
+              "AIRPORT"
+            ],
+            "lat": [
+              "40.6401381492615"
+            ],
+            "lon": [
+              "-73.7765207290649"
+            ]
+          },
+          {
+            "identifier": [
+              "MERIT"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "41.381945"
+            ],
+            "lon": [
+              "-73.13724306"
+            ]
+          },
+          {
+            "identifier": [
+              "KHFD"
+            ],
+            "type": [
+              "AIRPORT"
+            ],
+            "lat": [
+              "41.735668182373"
+            ],
+            "lon": [
+              "-72.6509799957275"
+            ]
+          },
+          {
+            "identifier": [
+              "PUTNM"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "41.95529583"
+            ],
+            "lon": [
+              "-71.84391"
+            ]
+          },
+          {
+            "identifier": [
+              "KBOS"
+            ],
+            "type": [
+              "AIRPORT"
+            ],
+            "lat": [
+              "42.3629884719849"
+            ],
+            "lon": [
+              "-71.0068467458089"
+            ]
+          },
+          {
+            "identifier": [
+              "COPLY"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "42.49778361"
+            ],
+            "lon": [
+              "-70.55779361"
+            ]
+          },
+          {
+            "identifier": [
+              "SCUPP"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "42.60305583"
+            ],
+            "lon": [
+              "-70.2302875"
+            ]
+          },
+          {
+            "identifier": [
+              "TUSKY"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "43.565"
+            ],
+            "lon": [
+              "-67"
+            ]
+          },
+          {
+            "identifier": [
+              "ETGAR"
+            ],
+            "type": [
+              "INT"
+            ],
+            "lat": [
+              "44.41918333"
+            ],
+            "lon": [
+              "-64.1628"
+            ]
+          },
+          {
+            "identifier": [
+              "CYHZ"
+            ],
+            "type": [
+              "AIRPORT"
+            ],
+            "lat": [
+              "44.8825483322144"
+            ],
+            "lon": [
+              "-63.5104484558106"
+            ]
+          }
         ]
-    }
+      }
+    ],
+    "route": [
+      {
+        "route-name": [
+          "John F. Kennedy Intl to Halifax/Stanfield International Airport"
+        ],
+        "route-point": [
+          {
+            "waypoint-identifier": [
+              "KJFK"
+            ],
+            "waypoint-type": [
+              "AIRPORT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "MERIT"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "KHFD"
+            ],
+            "waypoint-type": [
+              "AIRPORT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "PUTNM"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "KBOS"
+            ],
+            "waypoint-type": [
+              "AIRPORT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "COPLY"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "SCUPP"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "TUSKY"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "ETGAR"
+            ],
+            "waypoint-type": [
+              "INT"
+            ]
+          },
+          {
+            "waypoint-identifier": [
+              "CYHZ"
+            ],
+            "waypoint-type": [
+              "AIRPORT"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flight-plan xmlns="http://www8.garmin.com/xmlschemas/FlightPlan/v1">
+  <created>2023-03-08T22:38:39Z</created>
+  <waypoint-table>
+    <waypoint>
+      <identifier>KMEM</identifier>
+      <type>AIRPORT</type>
+      <country-code>K7</country-code>
+      <lat>35.042411</lat>
+      <lon>-89.976681</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>STVVV</identifier>
+      <type>INT</type>
+      <country-code>K4</country-code>
+      <lat>35.180825</lat>
+      <lon>-90.738428</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>ZUMIT</identifier>
+      <type>INT</type>
+      <country-code>K4</country-code>
+      <lat>35.181908</lat>
+      <lon>-90.811817</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>FOXOM</identifier>
+      <type>INT</type>
+      <country-code>K4</country-code>
+      <lat>35.184944</lat>
+      <lon>-91.010522</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>RZC</identifier>
+      <type>VOR</type>
+      <country-code>K4</country-code>
+      <lat>36.246428</lat>
+      <lon>-94.121392</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>PER</identifier>
+      <type>VOR</type>
+      <country-code>K4</country-code>
+      <lat>36.746531</lat>
+      <lon>-97.160156</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>GCK</identifier>
+      <type>VOR</type>
+      <country-code>K3</country-code>
+      <lat>37.919003</lat>
+      <lon>-100.725008</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>KIISS</identifier>
+      <type>INT</type>
+      <country-code>K3</country-code>
+      <lat>38.193428</lat>
+      <lon>-101.443403</lon>
+      <comment />
+    </waypoint>
+    <waypoint>
+      <identifier>KDEN</identifier>
+      <type>AIRPORT</type>
+      <country-code>K2</country-code>
+      <lat>39.861667</lat>
+      <lon>-104.673167</lon>
+      <comment />
+    </waypoint>
+  </waypoint-table>
+  <route>
+    <route-name>KMEM KDEN</route-name>
+    <flight-plan-index>1</flight-plan-index>
+    <route-point>
+      <waypoint-identifier>KMEM</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+      <waypoint-country-code>K7</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>STVVV</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+      <waypoint-country-code>K4</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>ZUMIT</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+      <waypoint-country-code>K4</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>FOXOM</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+      <waypoint-country-code>K4</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>RZC</waypoint-identifier>
+      <waypoint-type>VOR</waypoint-type>
+      <waypoint-country-code>K4</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>PER</waypoint-identifier>
+      <waypoint-type>VOR</waypoint-type>
+      <waypoint-country-code>K4</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>GCK</waypoint-identifier>
+      <waypoint-type>VOR</waypoint-type>
+      <waypoint-country-code>K3</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>KIISS</waypoint-identifier>
+      <waypoint-type>INT</waypoint-type>
+      <waypoint-country-code>K3</waypoint-country-code>
+    </route-point>
+    <route-point>
+      <waypoint-identifier>KDEN</waypoint-identifier>
+      <waypoint-type>AIRPORT</waypoint-type>
+      <waypoint-country-code>K2</waypoint-country-code>
+    </route-point>
+  </route>
+</flight-plan>

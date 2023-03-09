@@ -1,0 +1,16 @@
+{
+	"id": "a4e8685b-0fa1-4069-9272-f546d7a1dbc2",
+	"created": "2023-01-15T05:50:16.065448+00:00",
+	"userId": "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+	"aircraftId": "3f78766a-30c8-4d65-95ae-ebc2fb758aac",
+	"liveryId": null,
+	"callsign": "FedEx 204 Heavy",
+	"server": "Expert Server",
+	"dayTime": 0,
+	"nightTime": 184.86649,
+	"totalTime": 184.86649,
+	"landingCount": 1,
+	"originAirport": "KMEM",
+	"destinationAirport": "CYYC",
+	"xp": 1939
+}

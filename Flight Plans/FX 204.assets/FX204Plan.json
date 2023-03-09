@@ -1,0 +1,208 @@
+{
+  "result" : {
+    "flightId" : "a4e8685b-0fa1-4069-9272-f546d7a1dbc2",
+    "waypoints" : [
+      "KMEM",
+      "LRNCE",
+      "NIKEI",
+      "INAYO",
+      "KMCI",
+      "KLNK",
+      "DPR",
+      "KGGW",
+      "PEMDU",
+      "EBGAL",
+      "TIDUK",
+      "HENRI",
+      "PIBMU",
+      "RW29",
+      "CYYC"
+    ],
+    "flightPlanType" : 0,
+    "flightPlanItems" : [
+      {
+        "identifier" : "KMEM",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 103.63200378417969,
+          "longitude" : -89.97663402557373,
+          "latitude" : 35.042671203613281
+        },
+        "name" : "Memphis Intl",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.647524169999997,
+          "latitude" : 35.380019439999998
+        },
+        "name" : "LRNCE",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.726960000000005,
+          "latitude" : 35.423356390000002
+        },
+        "name" : "NIKEI",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.760852220000004,
+          "latitude" : 35.441960280000004
+        },
+        "name" : "INAYO",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "KMCI",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 312.11520385742188,
+          "longitude" : -94.713395436604813,
+          "latitude" : 39.297160466512047
+        },
+        "name" : "Kansas City International",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "KLNK",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 371.55120849609375,
+          "longitude" : -96.757787068684891,
+          "latitude" : 40.852092107137047
+        },
+        "name" : "Lincoln Airport",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "DPR",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -101.71500722222223,
+          "latitude" : 45.078067500000003
+        },
+        "name" : "DUPREE",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "KGGW",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 699.211181640625,
+          "longitude" : -106.60204696655273,
+          "latitude" : 48.212244033813477
+        },
+        "name" : "Wokal Fld Glasgow Intl",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -108.49777778000001,
+          "latitude" : 49.003636389999997
+        },
+        "name" : "PEMDU",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : 14000,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -113.37195,
+          "latitude" : 50.696950000000001
+        },
+        "name" : "EBGAL",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -113.68778333,
+          "latitude" : 50.928333330000001
+        },
+        "name" : "TIDUK",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : 7009,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -113.76167639000001,
+          "latitude" : 51.02613667
+        },
+        "name" : "HENRI",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : null,
+        "altitude" : 4940,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -113.91113694000001,
+          "latitude" : 51.081112500000003
+        },
+        "name" : "PIBMU",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "RW29",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -114.006301879883,
+          "latitude" : 51.115760803222699
+        },
+        "name" : "RW29",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "CYYC",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 1084.173583984375,
+          "longitude" : -114.01252555847168,
+          "latitude" : 51.117184162139893
+        },
+        "name" : "Calgary International",
+        "type" : 0,
+        "children" : null
+      }
+    ],
+    "lastUpdate" : "2023-01-15 06:15:43Z",
+    "flightPlanId" : "9b6176d9-2377-4f72-b1f2-85f8ec7be935"
+  },
+  "errorCode" : 0
+}

@@ -1,0 +1,240 @@
+{
+  "result" : {
+    "flightId" : "98b9d30e-9d0c-4b13-b20f-e9d4a4c7ea43",
+    "waypoints" : [
+      "EGPF",
+      "TLA5A",
+      "OTR",
+      "EPL",
+      "VOG",
+      "ELKA4F",
+      "I15-Y",
+      "LIRA"
+    ],
+    "flightPlanType" : 0,
+    "flightPlanItems" : [
+      {
+        "identifier" : "EGPF",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 7.924799919128418,
+          "longitude" : -4.4336941242218018,
+          "latitude" : 55.871700286865234
+        },
+        "name" : "Glasgow",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "TLA5A",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "TLA5A",
+        "type" : 0,
+        "children" : [
+          {
+            "identifier" : "XETUN",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -4.5413888900000003,
+              "latitude" : 55.813888890000001
+            },
+            "name" : "XETUN",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "D153N",
+            "altitude" : 6000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -4.2452838899999996,
+              "latitude" : 55.666685559999998
+            },
+            "name" : "D153N",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "TLA",
+            "altitude" : 6000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -3.3527777777777779,
+              "latitude" : 55.499166666666667
+            },
+            "name" : "TALLA",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "OTR",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -0.10361111111111111,
+          "latitude" : 53.698333333333331
+        },
+        "name" : "OTTRINGHAM",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "EPL",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 6.0591916666666661,
+          "latitude" : 48.317783333333331
+        },
+        "name" : "EPINAL MIRECOURT",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "VOG",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 8.9700194444444445,
+          "latitude" : 44.964458333333333
+        },
+        "name" : "VOGHERA",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "ELKA4F",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "ELKA4F",
+        "type" : 1,
+        "children" : [
+          {
+            "identifier" : "ELKAP",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 10.644166670000001,
+              "latitude" : 42.721111110000002
+            },
+            "name" : "ELKAP",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "BIBEK",
+            "altitude" : 19000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 11.251388889999999,
+              "latitude" : 42.441111110000001
+            },
+            "name" : "BIBEK",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "RA411",
+            "altitude" : 10000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 12.046411389999999,
+              "latitude" : 42.219169719999996
+            },
+            "name" : "RA411",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "CMP",
+            "altitude" : 5000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 12.381402777777778,
+              "latitude" : 42.123633333333331
+            },
+            "name" : "CAMPAGNANO",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "I15-Y",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "I15-Y",
+        "type" : 2,
+        "children" : [
+          {
+            "identifier" : "RA407",
+            "altitude" : 3000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 12.46752,
+              "latitude" : 41.983062500000003
+            },
+            "name" : "RA407",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "83ROM",
+            "altitude" : 3000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 12.502784719999999,
+              "latitude" : 41.927515829999997
+            },
+            "name" : "83ROM",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "RW15",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : 12.588833808898926,
+              "latitude" : 41.80804443359375
+            },
+            "name" : "RW15",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "LIRA",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 129.23519897460938,
+          "longitude" : 12.594917297363281,
+          "latitude" : 41.799228668212891
+        },
+        "name" : "Roma-Ciampino \"G. B. Pastine\"",
+        "type" : 0,
+        "children" : null
+      }
+    ],
+    "lastUpdate" : "2023-01-18 04:07:27Z",
+    "flightPlanId" : "9b6176d9-2377-4f72-b1f2-85f8ec7be935"
+  },
+  "errorCode" : 0
+}

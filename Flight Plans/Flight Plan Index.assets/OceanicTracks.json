@@ -1,0 +1,101 @@
+{
+	"result": [
+		{
+			"path": ["ERAKA", "60/20", "61/30", "60/40", "58/50", "DORYY"],
+			"westLevels": [340, 350, 360, 370],
+			"eastLevels": null,
+			"name": "A",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6022452Z"
+		},
+		{
+			"path": ["GOMUP", "59/20", "60/30", "59/40", "57/50", "HOIST"],
+			"westLevels": [340, 350, 360, 370, 380, 390],
+			"eastLevels": null,
+			"name": "B",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6026529Z"
+		},
+		{
+			"path": ["SUNOT", "58/20", "59/30", "58/40", "56/50", "JANJO"],
+			"westLevels": [340, 350, 360, 370, 380, 390],
+			"eastLevels": null,
+			"name": "C",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028588Z"
+		},
+		{
+			"path": ["BILTO", "57.5/20", "58.5/30", "57.5/40", "55.5/50", "KODIK"],
+			"westLevels": [350, 360, 370, 380, 390],
+			"eastLevels": null,
+			"name": "D",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028612Z"
+		},
+		{
+			"path": ["PIKIL", "57/20", "58/30", "57/40", "55/50", "LOMSI"],
+			"westLevels": [340, 350, 360, 370, 380, 390],
+			"eastLevels": null,
+			"name": "E",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028627Z"
+		},
+		{
+			"path": ["JOOPY", "49/50", "51/40", "53/30", "54/20", "DOGAL", "BEXET"],
+			"westLevels": null,
+			"eastLevels": [340, 350, 360, 370, 380, 390, 400],
+			"name": "T",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028704Z"
+		},
+		{
+			"path": ["NICSO", "48/50", "50/40", "52/30", "53/20", "MALOT", "GISTI"],
+			"westLevels": null,
+			"eastLevels": [340, 350, 360, 370, 380, 390, 400],
+			"name": "U",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028723Z"
+		},
+		{
+			"path": ["PORTI", "47/50", "49/40", "51/30", "52/20", "LIMRI", "XETBO"],
+			"westLevels": null,
+			"eastLevels": [340, 350, 360, 370, 380, 390, 400],
+			"name": "V",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028741Z"
+		},
+		{
+			"path": ["RELIC", "46.5/50", "48.5/40", "50.5/30", "51.5/20", "ADARA", "LEKVA"],
+			"westLevels": null,
+			"eastLevels": [350, 360, 370, 380, 390],
+			"name": "W",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028761Z"
+		},
+		{
+			"path": ["SUPRY", "46/50", "48/40", "50/30", "51/20", "DINIM", "ELSOX"],
+			"westLevels": null,
+			"eastLevels": [340, 350, 360, 370, 380, 390, 400],
+			"name": "X",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028785Z"
+		},
+		{
+			"path": ["RAFIN", "45/50", "47/40", "49/30", "50/20", "SOMAX", "ATSUR"],
+			"westLevels": null,
+			"eastLevels": [340, 350, 360, 370, 380, 390, 400],
+			"name": "Y",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028808Z"
+		},
+		{
+			"path": ["MUNEY", "41/60", "44/50", "46/40", "48/30", "49/20", "BEDRA", "NASBA"],
+			"westLevels": null,
+			"eastLevels": [360, 380, 400],
+			"name": "Z",
+			"type": "North Atlantic Tracks",
+			"lastSeen": "2023-01-09T17:28:06.6028833Z"
+		}
+	],
+	"errorCode": 0
+}

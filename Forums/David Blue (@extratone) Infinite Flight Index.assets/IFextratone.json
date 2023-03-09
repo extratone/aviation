@@ -1,0 +1,1112 @@
+{
+  "atcRank": 0,
+  "lastLevel1ViolationDate": "2023-01-01T23:29:16.011917+00:00",
+  "roles": [
+    53,
+    68,
+    75,
+    76
+  ],
+  "totalXP": 84419,
+  "lastLevel3ViolationDate": "0001-01-01T00:00:00",
+  "virtualOrganization": "FedEx Virtual Group [FDXV]",
+  "total12MonthsViolations": 2,
+  "discourseUsername": "extratone",
+  "atcOperations": 45,
+  "userId": "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+  "lastLevel2ViolationDate": "0001-01-01T00:00:00",
+  "lastReportViolationDate": "0001-01-01T00:00:00",
+  "errorCode": 0,
+  "gradeDetails": {
+    "gradeIndex": 2,
+    "ruleDefinitions": [{
+      "period": 1.7976931348623157e+308,
+      "order": 1,
+      "operator": 2,
+      "property": "TotalFlightTime",
+      "description": "Total Flight Time",
+      "group": 0,
+      "name": "Total Flight Time"
+    }, {
+      "period": 1.7976931348623157e+308,
+      "order": 2,
+      "operator": 2,
+      "property": "TotalLandings",
+      "description": "Total Landings",
+      "group": 0,
+      "name": "Total Landings"
+    }, {
+      "period": 1.7976931348623157e+308,
+      "order": 0,
+      "operator": 2,
+      "property": "TotalXP",
+      "description": "Total XP",
+      "group": 0,
+      "name": "XP"
+    }, {
+      "period": 7,
+      "order": 12,
+      "operator": 3,
+      "property": "ReportCountMediumPeriod",
+      "description": "Level 3 Violations last 7 days",
+      "group": 3,
+      "name": "Level 3 Violations (7 days)"
+    }, {
+      "period": 365,
+      "order": 10,
+      "operator": 3,
+      "property": "Total12MonthsATCMinorReports",
+      "description": "Level 2 Violations (1 year)",
+      "group": 2,
+      "name": "Level 2 Violations (1 year)"
+    }, {
+      "period": 365,
+      "order": 13,
+      "operator": 3,
+      "property": "Total12MonthsATCMajorReports",
+      "description": "Level 3 Violations (1 year)",
+      "group": 3,
+      "name": "Level 3 Violations (1 year)"
+    }, {
+      "period": 365,
+      "order": 14,
+      "operator": 3,
+      "property": "Total12MonthsATCAllReports",
+      "description": "All Level 2/3 Violations (1 year)",
+      "group": 3,
+      "name": "All Level 2/3 Violations (1 year)"
+    }, {
+      "period": 1,
+      "order": 6,
+      "operator": 3,
+      "property": "ViolationsShortPeriod",
+      "description": "Level 1 Violations last 24 hours",
+      "group": 1,
+      "name": "Level 1 Violations (24 hours)"
+    }, {
+      "period": 7,
+      "order": 7,
+      "operator": 3,
+      "property": "ViolationsMediumPeriod",
+      "description": "Level 1 Violations last 7 days",
+      "group": 1,
+      "name": "Level 1 Violations (7 days)"
+    }, {
+      "period": 90,
+      "order": 3,
+      "operator": 2,
+      "property": "FlightTimeLongPeriod",
+      "description": "Flight Time (90 days)",
+      "group": 0,
+      "name": "Flight Time (90 days)"
+    }, {
+      "period": 90,
+      "order": 4,
+      "operator": 2,
+      "property": "LandingCountLongPeriod",
+      "description": "Landings (90 days)",
+      "group": 0,
+      "name": "Landings (90 days)"
+    }, {
+      "period": 365,
+      "order": 8,
+      "operator": 3,
+      "property": "ViolationsByLandingShortPeriod",
+      "description": "Level 1 Violations/Landing 12 Months",
+      "group": 1,
+      "name": "Level 1 Violations/Landing (12 Months)"
+    }],
+    "grades": [{
+      "rules": [{
+        "state": 1,
+        "ruleIndex": 0,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "0hrs",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 1,
+          "operator": 2,
+          "property": "TotalFlightTime",
+          "description": "Total Flight Time",
+          "group": 0,
+          "name": "Total Flight Time"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 1,
+        "userValueString": "138",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 2,
+          "operator": 2,
+          "property": "TotalLandings",
+          "description": "Total Landings",
+          "group": 0,
+          "name": "Total Landings"
+        },
+        "userValue": 138,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 2,
+        "userValueString": "84,419",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 0,
+          "operator": 2,
+          "property": "TotalXP",
+          "description": "Total XP",
+          "group": 0,
+          "name": "XP"
+        },
+        "userValue": 84419,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 3,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 7,
+          "order": 12,
+          "operator": 3,
+          "property": "ReportCountMediumPeriod",
+          "description": "Level 3 Violations last 7 days",
+          "group": 3,
+          "name": "Level 3 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 4,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 365,
+          "order": 10,
+          "operator": 3,
+          "property": "Total12MonthsATCMinorReports",
+          "description": "Level 2 Violations (1 year)",
+          "group": 2,
+          "name": "Level 2 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 5,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 365,
+          "order": 13,
+          "operator": 3,
+          "property": "Total12MonthsATCMajorReports",
+          "description": "Level 3 Violations (1 year)",
+          "group": 3,
+          "name": "Level 3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 6,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 365,
+          "order": 14,
+          "operator": 3,
+          "property": "Total12MonthsATCAllReports",
+          "description": "All Level 2/3 Violations (1 year)",
+          "group": 3,
+          "name": "All Level 2/3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 7,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 1,
+          "order": 6,
+          "operator": 3,
+          "property": "ViolationsShortPeriod",
+          "description": "Level 1 Violations last 24 hours",
+          "group": 1,
+          "name": "Level 1 Violations (24 hours)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 8,
+        "userValueString": "0",
+        "referenceValueString": "9,999",
+        "definition": {
+          "period": 7,
+          "order": 7,
+          "operator": 3,
+          "property": "ViolationsMediumPeriod",
+          "description": "Level 1 Violations last 7 days",
+          "group": 1,
+          "name": "Level 1 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 9999
+      }, {
+        "state": 1,
+        "ruleIndex": 9,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "0hrs",
+        "definition": {
+          "period": 90,
+          "order": 3,
+          "operator": 2,
+          "property": "FlightTimeLongPeriod",
+          "description": "Flight Time (90 days)",
+          "group": 0,
+          "name": "Flight Time (90 days)"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 10,
+        "userValueString": "138",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 90,
+          "order": 4,
+          "operator": 2,
+          "property": "LandingCountLongPeriod",
+          "description": "Landings (90 days)",
+          "group": 0,
+          "name": "Landings (90 days)"
+        },
+        "userValue": 138,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 11,
+        "userValueString": "0.01\n2 violations / 138 landings",
+        "referenceValueString": "9999.00",
+        "definition": {
+          "period": 365,
+          "order": 8,
+          "operator": 3,
+          "property": "ViolationsByLandingShortPeriod",
+          "description": "Level 1 Violations/Landing 12 Months",
+          "group": 1,
+          "name": "Level 1 Violations/Landing (12 Months)"
+        },
+        "userValue": 0.014492753623188406,
+        "referenceValue": 9999
+      }],
+      "state": 1,
+      "name": "Grade 1",
+      "index": 0
+    }, {
+      "rules": [{
+        "state": 1,
+        "ruleIndex": 0,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "5hrs",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 1,
+          "operator": 2,
+          "property": "TotalFlightTime",
+          "description": "Total Flight Time",
+          "group": 0,
+          "name": "Total Flight Time"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 1,
+        "userValueString": "138",
+        "referenceValueString": "25",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 2,
+          "operator": 2,
+          "property": "TotalLandings",
+          "description": "Total Landings",
+          "group": 0,
+          "name": "Total Landings"
+        },
+        "userValue": 138,
+        "referenceValue": 25
+      }, {
+        "state": 1,
+        "ruleIndex": 2,
+        "userValueString": "84,419",
+        "referenceValueString": "2,000",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 0,
+          "operator": 2,
+          "property": "TotalXP",
+          "description": "Total XP",
+          "group": 0,
+          "name": "XP"
+        },
+        "userValue": 84419,
+        "referenceValue": 2000
+      }, {
+        "state": 1,
+        "ruleIndex": 3,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 7,
+          "order": 12,
+          "operator": 3,
+          "property": "ReportCountMediumPeriod",
+          "description": "Level 3 Violations last 7 days",
+          "group": 3,
+          "name": "Level 3 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 4,
+        "userValueString": "0",
+        "referenceValueString": "10",
+        "definition": {
+          "period": 365,
+          "order": 10,
+          "operator": 3,
+          "property": "Total12MonthsATCMinorReports",
+          "description": "Level 2 Violations (1 year)",
+          "group": 2,
+          "name": "Level 2 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 10
+      }, {
+        "state": 1,
+        "ruleIndex": 5,
+        "userValueString": "0",
+        "referenceValueString": "10",
+        "definition": {
+          "period": 365,
+          "order": 13,
+          "operator": 3,
+          "property": "Total12MonthsATCMajorReports",
+          "description": "Level 3 Violations (1 year)",
+          "group": 3,
+          "name": "Level 3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 10
+      }, {
+        "state": 1,
+        "ruleIndex": 6,
+        "userValueString": "0",
+        "referenceValueString": "10",
+        "definition": {
+          "period": 365,
+          "order": 14,
+          "operator": 3,
+          "property": "Total12MonthsATCAllReports",
+          "description": "All Level 2/3 Violations (1 year)",
+          "group": 3,
+          "name": "All Level 2/3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 10
+      }, {
+        "state": 1,
+        "ruleIndex": 7,
+        "userValueString": "0",
+        "referenceValueString": "7",
+        "definition": {
+          "period": 1,
+          "order": 6,
+          "operator": 3,
+          "property": "ViolationsShortPeriod",
+          "description": "Level 1 Violations last 24 hours",
+          "group": 1,
+          "name": "Level 1 Violations (24 hours)"
+        },
+        "userValue": 0,
+        "referenceValue": 7
+      }, {
+        "state": 1,
+        "ruleIndex": 8,
+        "userValueString": "0",
+        "referenceValueString": "25",
+        "definition": {
+          "period": 7,
+          "order": 7,
+          "operator": 3,
+          "property": "ViolationsMediumPeriod",
+          "description": "Level 1 Violations last 7 days",
+          "group": 1,
+          "name": "Level 1 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 25
+      }, {
+        "state": 1,
+        "ruleIndex": 9,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "3hrs",
+        "definition": {
+          "period": 90,
+          "order": 3,
+          "operator": 2,
+          "property": "FlightTimeLongPeriod",
+          "description": "Flight Time (90 days)",
+          "group": 0,
+          "name": "Flight Time (90 days)"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 3
+      }, {
+        "state": 1,
+        "ruleIndex": 10,
+        "userValueString": "138",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 90,
+          "order": 4,
+          "operator": 2,
+          "property": "LandingCountLongPeriod",
+          "description": "Landings (90 days)",
+          "group": 0,
+          "name": "Landings (90 days)"
+        },
+        "userValue": 138,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 11,
+        "userValueString": "0.01\n2 violations / 138 landings",
+        "referenceValueString": "0.80",
+        "definition": {
+          "period": 365,
+          "order": 8,
+          "operator": 3,
+          "property": "ViolationsByLandingShortPeriod",
+          "description": "Level 1 Violations/Landing 12 Months",
+          "group": 1,
+          "name": "Level 1 Violations/Landing (12 Months)"
+        },
+        "userValue": 0.014492753623188406,
+        "referenceValue": 0.8
+      }],
+      "state": 1,
+      "name": "Grade 2",
+      "index": 1
+    }, {
+      "rules": [{
+        "state": 1,
+        "ruleIndex": 0,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "50hrs",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 1,
+          "operator": 2,
+          "property": "TotalFlightTime",
+          "description": "Total Flight Time",
+          "group": 0,
+          "name": "Total Flight Time"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 50
+      }, {
+        "state": 1,
+        "ruleIndex": 1,
+        "userValueString": "138",
+        "referenceValueString": "100",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 2,
+          "operator": 2,
+          "property": "TotalLandings",
+          "description": "Total Landings",
+          "group": 0,
+          "name": "Total Landings"
+        },
+        "userValue": 138,
+        "referenceValue": 100
+      }, {
+        "state": 1,
+        "ruleIndex": 2,
+        "userValueString": "84,419",
+        "referenceValueString": "50,000",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 0,
+          "operator": 2,
+          "property": "TotalXP",
+          "description": "Total XP",
+          "group": 0,
+          "name": "XP"
+        },
+        "userValue": 84419,
+        "referenceValue": 50000
+      }, {
+        "state": 1,
+        "ruleIndex": 3,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 7,
+          "order": 12,
+          "operator": 3,
+          "property": "ReportCountMediumPeriod",
+          "description": "Level 3 Violations last 7 days",
+          "group": 3,
+          "name": "Level 3 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 4,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 365,
+          "order": 10,
+          "operator": 3,
+          "property": "Total12MonthsATCMinorReports",
+          "description": "Level 2 Violations (1 year)",
+          "group": 2,
+          "name": "Level 2 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 5,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 365,
+          "order": 13,
+          "operator": 3,
+          "property": "Total12MonthsATCMajorReports",
+          "description": "Level 3 Violations (1 year)",
+          "group": 3,
+          "name": "Level 3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 6,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 365,
+          "order": 14,
+          "operator": 3,
+          "property": "Total12MonthsATCAllReports",
+          "description": "All Level 2/3 Violations (1 year)",
+          "group": 3,
+          "name": "All Level 2/3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 7,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 1,
+          "order": 6,
+          "operator": 3,
+          "property": "ViolationsShortPeriod",
+          "description": "Level 1 Violations last 24 hours",
+          "group": 1,
+          "name": "Level 1 Violations (24 hours)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 8,
+        "userValueString": "0",
+        "referenceValueString": "5",
+        "definition": {
+          "period": 7,
+          "order": 7,
+          "operator": 3,
+          "property": "ViolationsMediumPeriod",
+          "description": "Level 1 Violations last 7 days",
+          "group": 1,
+          "name": "Level 1 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 5
+      }, {
+        "state": 1,
+        "ruleIndex": 9,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "10hrs",
+        "definition": {
+          "period": 90,
+          "order": 3,
+          "operator": 2,
+          "property": "FlightTimeLongPeriod",
+          "description": "Flight Time (90 days)",
+          "group": 0,
+          "name": "Flight Time (90 days)"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 10
+      }, {
+        "state": 1,
+        "ruleIndex": 10,
+        "userValueString": "138",
+        "referenceValueString": "15",
+        "definition": {
+          "period": 90,
+          "order": 4,
+          "operator": 2,
+          "property": "LandingCountLongPeriod",
+          "description": "Landings (90 days)",
+          "group": 0,
+          "name": "Landings (90 days)"
+        },
+        "userValue": 138,
+        "referenceValue": 15
+      }, {
+        "state": 1,
+        "ruleIndex": 11,
+        "userValueString": "0.01\n2 violations / 138 landings",
+        "referenceValueString": "0.50",
+        "definition": {
+          "period": 365,
+          "order": 8,
+          "operator": 3,
+          "property": "ViolationsByLandingShortPeriod",
+          "description": "Level 1 Violations/Landing 12 Months",
+          "group": 1,
+          "name": "Level 1 Violations/Landing (12 Months)"
+        },
+        "userValue": 0.014492753623188406,
+        "referenceValue": 0.5
+      }],
+      "state": 1,
+      "name": "Grade 3",
+      "index": 2
+    }, {
+      "rules": [{
+        "state": 0,
+        "ruleIndex": 0,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "120hrs",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 1,
+          "operator": 2,
+          "property": "TotalFlightTime",
+          "description": "Total Flight Time",
+          "group": 0,
+          "name": "Total Flight Time"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 120
+      }, {
+        "state": 0,
+        "ruleIndex": 1,
+        "userValueString": "138",
+        "referenceValueString": "400",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 2,
+          "operator": 2,
+          "property": "TotalLandings",
+          "description": "Total Landings",
+          "group": 0,
+          "name": "Total Landings"
+        },
+        "userValue": 138,
+        "referenceValue": 400
+      }, {
+        "state": 1,
+        "ruleIndex": 2,
+        "userValueString": "84,419",
+        "referenceValueString": "80,000",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 0,
+          "operator": 2,
+          "property": "TotalXP",
+          "description": "Total XP",
+          "group": 0,
+          "name": "XP"
+        },
+        "userValue": 84419,
+        "referenceValue": 80000
+      }, {
+        "state": 1,
+        "ruleIndex": 3,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 7,
+          "order": 12,
+          "operator": 3,
+          "property": "ReportCountMediumPeriod",
+          "description": "Level 3 Violations last 7 days",
+          "group": 3,
+          "name": "Level 3 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 4,
+        "userValueString": "0",
+        "referenceValueString": "4",
+        "definition": {
+          "period": 365,
+          "order": 10,
+          "operator": 3,
+          "property": "Total12MonthsATCMinorReports",
+          "description": "Level 2 Violations (1 year)",
+          "group": 2,
+          "name": "Level 2 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 4
+      }, {
+        "state": 1,
+        "ruleIndex": 5,
+        "userValueString": "0",
+        "referenceValueString": "4",
+        "definition": {
+          "period": 365,
+          "order": 13,
+          "operator": 3,
+          "property": "Total12MonthsATCMajorReports",
+          "description": "Level 3 Violations (1 year)",
+          "group": 3,
+          "name": "Level 3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 4
+      }, {
+        "state": 1,
+        "ruleIndex": 6,
+        "userValueString": "0",
+        "referenceValueString": "4",
+        "definition": {
+          "period": 365,
+          "order": 14,
+          "operator": 3,
+          "property": "Total12MonthsATCAllReports",
+          "description": "All Level 2/3 Violations (1 year)",
+          "group": 3,
+          "name": "All Level 2/3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 4
+      }, {
+        "state": 1,
+        "ruleIndex": 7,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 1,
+          "order": 6,
+          "operator": 3,
+          "property": "ViolationsShortPeriod",
+          "description": "Level 1 Violations last 24 hours",
+          "group": 1,
+          "name": "Level 1 Violations (24 hours)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 8,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 7,
+          "order": 7,
+          "operator": 3,
+          "property": "ViolationsMediumPeriod",
+          "description": "Level 1 Violations last 7 days",
+          "group": 1,
+          "name": "Level 1 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 9,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "30hrs",
+        "definition": {
+          "period": 90,
+          "order": 3,
+          "operator": 2,
+          "property": "FlightTimeLongPeriod",
+          "description": "Flight Time (90 days)",
+          "group": 0,
+          "name": "Flight Time (90 days)"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 30
+      }, {
+        "state": 1,
+        "ruleIndex": 10,
+        "userValueString": "138",
+        "referenceValueString": "100",
+        "definition": {
+          "period": 90,
+          "order": 4,
+          "operator": 2,
+          "property": "LandingCountLongPeriod",
+          "description": "Landings (90 days)",
+          "group": 0,
+          "name": "Landings (90 days)"
+        },
+        "userValue": 138,
+        "referenceValue": 100
+      }, {
+        "state": 1,
+        "ruleIndex": 11,
+        "userValueString": "0.01\n2 violations / 138 landings",
+        "referenceValueString": "0.22",
+        "definition": {
+          "period": 365,
+          "order": 8,
+          "operator": 3,
+          "property": "ViolationsByLandingShortPeriod",
+          "description": "Level 1 Violations/Landing 12 Months",
+          "group": 1,
+          "name": "Level 1 Violations/Landing (12 Months)"
+        },
+        "userValue": 0.014492753623188406,
+        "referenceValue": 0.22
+      }],
+      "state": 0,
+      "name": "Grade 4",
+      "index": 3
+    }, {
+      "rules": [{
+        "state": 0,
+        "ruleIndex": 0,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "500hrs",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 1,
+          "operator": 2,
+          "property": "TotalFlightTime",
+          "description": "Total Flight Time",
+          "group": 0,
+          "name": "Total Flight Time"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 500
+      }, {
+        "state": 0,
+        "ruleIndex": 1,
+        "userValueString": "138",
+        "referenceValueString": "800",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 2,
+          "operator": 2,
+          "property": "TotalLandings",
+          "description": "Total Landings",
+          "group": 0,
+          "name": "Total Landings"
+        },
+        "userValue": 138,
+        "referenceValue": 800
+      }, {
+        "state": 0,
+        "ruleIndex": 2,
+        "userValueString": "84,419",
+        "referenceValueString": "175,000",
+        "definition": {
+          "period": 1.7976931348623157e+308,
+          "order": 0,
+          "operator": 2,
+          "property": "TotalXP",
+          "description": "Total XP",
+          "group": 0,
+          "name": "XP"
+        },
+        "userValue": 84419,
+        "referenceValue": 175000
+      }, {
+        "state": 1,
+        "ruleIndex": 3,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 7,
+          "order": 12,
+          "operator": 3,
+          "property": "ReportCountMediumPeriod",
+          "description": "Level 3 Violations last 7 days",
+          "group": 3,
+          "name": "Level 3 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 4,
+        "userValueString": "0",
+        "referenceValueString": "2",
+        "definition": {
+          "period": 365,
+          "order": 10,
+          "operator": 3,
+          "property": "Total12MonthsATCMinorReports",
+          "description": "Level 2 Violations (1 year)",
+          "group": 2,
+          "name": "Level 2 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 2
+      }, {
+        "state": 1,
+        "ruleIndex": 5,
+        "userValueString": "0",
+        "referenceValueString": "2",
+        "definition": {
+          "period": 365,
+          "order": 13,
+          "operator": 3,
+          "property": "Total12MonthsATCMajorReports",
+          "description": "Level 3 Violations (1 year)",
+          "group": 3,
+          "name": "Level 3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 2
+      }, {
+        "state": 1,
+        "ruleIndex": 6,
+        "userValueString": "0",
+        "referenceValueString": "2",
+        "definition": {
+          "period": 365,
+          "order": 14,
+          "operator": 3,
+          "property": "Total12MonthsATCAllReports",
+          "description": "All Level 2/3 Violations (1 year)",
+          "group": 3,
+          "name": "All Level 2/3 Violations (1 year)"
+        },
+        "userValue": 0,
+        "referenceValue": 2
+      }, {
+        "state": 1,
+        "ruleIndex": 7,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 1,
+          "order": 6,
+          "operator": 3,
+          "property": "ViolationsShortPeriod",
+          "description": "Level 1 Violations last 24 hours",
+          "group": 1,
+          "name": "Level 1 Violations (24 hours)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 8,
+        "userValueString": "0",
+        "referenceValueString": "0",
+        "definition": {
+          "period": 7,
+          "order": 7,
+          "operator": 3,
+          "property": "ViolationsMediumPeriod",
+          "description": "Level 1 Violations last 7 days",
+          "group": 1,
+          "name": "Level 1 Violations (7 days)"
+        },
+        "userValue": 0,
+        "referenceValue": 0
+      }, {
+        "state": 1,
+        "ruleIndex": 9,
+        "userValueString": "110hrs 29mn",
+        "referenceValueString": "70hrs",
+        "definition": {
+          "period": 90,
+          "order": 3,
+          "operator": 2,
+          "property": "FlightTimeLongPeriod",
+          "description": "Flight Time (90 days)",
+          "group": 0,
+          "name": "Flight Time (90 days)"
+        },
+        "userValue": 110.48333333333333,
+        "referenceValue": 70
+      }, {
+        "state": 0,
+        "ruleIndex": 10,
+        "userValueString": "138",
+        "referenceValueString": "180",
+        "definition": {
+          "period": 90,
+          "order": 4,
+          "operator": 2,
+          "property": "LandingCountLongPeriod",
+          "description": "Landings (90 days)",
+          "group": 0,
+          "name": "Landings (90 days)"
+        },
+        "userValue": 138,
+        "referenceValue": 180
+      }, {
+        "state": 1,
+        "ruleIndex": 11,
+        "userValueString": "0.01\n2 violations / 138 landings",
+        "referenceValueString": "0.05",
+        "definition": {
+          "period": 365,
+          "order": 8,
+          "operator": 3,
+          "property": "ViolationsByLandingShortPeriod",
+          "description": "Level 1 Violations/Landing 12 Months",
+          "group": 1,
+          "name": "Level 1 Violations/Landing (12 Months)"
+        },
+        "userValue": 0.014492753623188406,
+        "referenceValue": 0.05
+      }],
+      "state": 0,
+      "name": "Grade 5",
+      "index": 4
+    }]
+  },
+  "groups": [],
+  "violationCountByLevel": {
+    "level3": 0,
+    "level2": 0,
+    "level1": 2
+  }
+}

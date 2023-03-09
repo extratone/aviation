@@ -1,0 +1,349 @@
+{
+  "result" : {
+    "flightId" : "d93c6beb-a64c-49c0-ad0b-097538846409",
+    "waypoints" : [
+      "KDFW",
+      "ZACHH4",
+      "HOT",
+      "KLIT",
+      "JBR",
+      "CNG",
+      "SMUKE2",
+      "L05L",
+      "KIND"
+    ],
+    "flightPlanType" : 0,
+    "flightPlanItems" : [
+      {
+        "identifier" : "KDFW",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 184.09919738769531,
+          "longitude" : -97.036574227469302,
+          "latitude" : 32.897095271519255
+        },
+        "name" : "Dallas Fort Worth Intl",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "ZACHH4",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "ZACHH4",
+        "type" : 0,
+        "children" : [
+          {
+            "identifier" : "CUZEN",
+            "altitude" : 5000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -97.025003330000004,
+              "latitude" : 33.07751528
+            },
+            "name" : "CUZEN",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "FEZTR",
+            "altitude" : 7000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -96.936667779999993,
+              "latitude" : 33.08280139
+            },
+            "name" : "FEZTR",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "ZERLU",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -96.3328025,
+              "latitude" : 32.998058610000001
+            },
+            "name" : "ZERLU",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "ZACHH",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -94.248889439999999,
+              "latitude" : 33.713913329999997
+            },
+            "name" : "ZACHH",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "BSKAT",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -93.559733890000004,
+              "latitude" : 34.04168722
+            },
+            "name" : "BSKAT",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "HOT",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -93.090561111111114,
+          "latitude" : 34.478359444444443
+        },
+        "name" : "HOT SPRINGS",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "KLIT",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 81.076797485351562,
+          "longitude" : -92.225898742675781,
+          "latitude" : 34.729590733846031
+        },
+        "name" : "Adams Field/Bill And Hillary Clinton National",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "JBR",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -90.588350277777764,
+          "latitude" : 35.874741666666672
+        },
+        "name" : "JONESBORO",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "CNG",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : -88.83669138888888,
+          "latitude" : 37.008360833333334
+        },
+        "name" : "CUNNINGHAM",
+        "type" : 0,
+        "children" : null
+      },
+      {
+        "identifier" : "SMUKE2",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "SMUKE2",
+        "type" : 1,
+        "children" : [
+          {
+            "identifier" : "TERGE",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -87.762227499999995,
+              "latitude" : 37.928346390000002
+            },
+            "name" : "TERGE",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "EMBRR",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -87.236399719999994,
+              "latitude" : 38.652230000000003
+            },
+            "name" : "EMBRR",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "WOOTE",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -87.103334720000007,
+              "latitude" : 38.831116110000004
+            },
+            "name" : "WOOTE",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "GAMLE",
+            "altitude" : 21000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -87.010303059999998,
+              "latitude" : 38.955281939999999
+            },
+            "name" : "GAMLE",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "RACYR",
+            "altitude" : 19000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.897239999999996,
+              "latitude" : 39.111682500000001
+            },
+            "name" : "RACYR",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "FIIRE",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.6513925,
+              "latitude" : 39.402511109999999
+            },
+            "name" : "FIIRE",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "WESLE",
+            "altitude" : 6000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.600010280000006,
+              "latitude" : 39.470838890000003
+            },
+            "name" : "WESLE",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "WAAYN",
+            "altitude" : 5000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.520296389999999,
+              "latitude" : 39.549166669999998
+            },
+            "name" : "WAAYN",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "L05L",
+        "altitude" : 0,
+        "location" : {
+          "altitude" : 0,
+          "longitude" : 0,
+          "latitude" : 0
+        },
+        "name" : "L05L",
+        "type" : 2,
+        "children" : [
+          {
+            "identifier" : "FTBLL",
+            "altitude" : 4000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.473076109999994,
+              "latitude" : 39.58639333
+            },
+            "name" : "FTBLL",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "STDUM",
+            "altitude" : 3000,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.425833890000007,
+              "latitude" : 39.623631940000003
+            },
+            "name" : "STDUM",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "OINKK",
+            "altitude" : 2100,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.382804719999996,
+              "latitude" : 39.657249440000001
+            },
+            "name" : "OINKK",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "OSCRR",
+            "altitude" : 1220,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.340300279999994,
+              "latitude" : 39.690843889999996
+            },
+            "name" : "OSCRR",
+            "type" : 0,
+            "children" : null
+          },
+          {
+            "identifier" : "RW05L",
+            "altitude" : -1,
+            "location" : {
+              "altitude" : 0,
+              "longitude" : -86.320846557617188,
+              "latitude" : 39.706386566162109
+            },
+            "name" : "RW05L",
+            "type" : 0,
+            "children" : null
+          }
+        ]
+      },
+      {
+        "identifier" : "KIND",
+        "altitude" : -1,
+        "location" : {
+          "altitude" : 241.70640563964844,
+          "longitude" : -86.292811075846359,
+          "latitude" : 39.718201319376625
+        },
+        "name" : "Indianapolis International Airport",
+        "type" : 0,
+        "children" : null
+      }
+    ],
+    "lastUpdate" : "2022-12-08 12:18:21Z",
+    "flightPlanId" : "cf0725b7-1ae7-4a2f-8658-14a0c4c28244"
+  },
+  "errorCode" : 0
+}

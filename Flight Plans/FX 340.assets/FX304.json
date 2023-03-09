@@ -1,0 +1,16 @@
+{
+	"id": "d93c6beb-a64c-49c0-ad0b-097538846409",
+	"created": "2022-12-08T12:12:22.188343+00:00",
+	"userId": "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+	"aircraftId": "e59fa7b4-b708-4480-aebd-26659a4f312b",
+	"liveryId": "4f62a437-cc2e-4a97-901f-9c12a2c1ad17",
+	"callsign": "FedEx 340 Heavy",
+	"server": "Training Server",
+	"dayTime": 26.929684,
+	"nightTime": 56.469666,
+	"totalTime": 83.39935,
+	"landingCount": 1,
+	"originAirport": "KDFW",
+	"destinationAirport": "KIND",
+	"xp": 929
+}

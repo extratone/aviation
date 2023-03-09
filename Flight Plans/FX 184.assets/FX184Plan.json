@@ -1,0 +1,481 @@
+{
+    "id" : "0fecfe31-b9b2-40fb-aab1-3986a92c4efb",
+    "destinationAirport" : "EGSS",
+    "server" : "Casual Server",
+    "originAirport" : "EGSS",
+    "totalTime" : 0,
+    "aircraftId" : "e59fa7b4-b708-4480-aebd-26659a4f312b",
+    "callsign" : "FedEx 184",
+    "userId" : "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+    "landingCount" : 0,
+    "nightTime" : 0,
+    "xp" : 0,
+    "created" : "2023-01-09T17:42:52.854387+00:00",
+    "liveryId" : "4f62a437-cc2e-4a97-901f-9c12a2c1ad17",
+    "dayTime" : 0,
+    "plan" : {
+      "flightId" : "0fecfe31-b9b2-40fb-aab1-3986a92c4efb",
+      "waypoints" : [
+        "EGSS",
+        "31ISX",
+        "D170H",
+        "D170E",
+        "D170B",
+        "UTAVA",
+        "BUZAD",
+        "OLNEY",
+        "WELIN",
+        "AKUPA",
+        "TIMPO",
+        "ELVOS",
+        "TNT",
+        "RODOL",
+        "TENSO",
+        "BELOX",
+        "APSOV",
+        "PIKIL",
+        "5720N",
+        "5830N",
+        "5740N",
+        "5550N",
+        "LOMSI",
+        "YRI",
+        "YUL",
+        "SYR",
+        "EWC",
+        "FLM",
+        "BWG",
+        "HARET",
+        "AXXEL",
+        "SPKER",
+        "BLUZZ",
+        "COPEN",
+        "KMEM"
+      ],
+      "flightPlanType" : 0,
+      "flightPlanItems" : [
+        {
+          "name" : "Stansted",
+          "location" : {
+            "latitude" : 51.885126113891602,
+            "longitude" : 0.23499263823032379,
+            "altitude" : 106.07040405273438
+          },
+          "type" : 0,
+          "identifier" : "EGSS",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "31ISX",
+          "location" : {
+            "latitude" : 51.839466109999996,
+            "longitude" : 0.16529167,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "D170H",
+          "location" : {
+            "latitude" : 51.858350000000002,
+            "longitude" : 0.098354439999999987,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "D170E",
+          "location" : {
+            "latitude" : 51.907521109999998,
+            "longitude" : 0.084734719999999999,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "D170B",
+          "location" : {
+            "latitude" : 51.956691939999999,
+            "longitude" : 0.071111669999999988,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "UTAVA",
+          "location" : {
+            "latitude" : 51.979722219999999,
+            "longitude" : -0.071944440000000026,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "BUZAD",
+          "location" : {
+            "latitude" : 51.942222219999998,
+            "longitude" : -0.55222221999999999,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "OLNEY",
+          "location" : {
+            "latitude" : 52.127777780000002,
+            "longitude" : -0.73416667000000002,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "WELIN",
+          "location" : {
+            "latitude" : 52.247222219999998,
+            "longitude" : -0.85222222000000003,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "AKUPA",
+          "location" : {
+            "latitude" : 52.486666669999998,
+            "longitude" : -1.0911111099999999,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "TIMPO",
+          "location" : {
+            "latitude" : 52.558888889999999,
+            "longitude" : -1.16388889,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "ELVOS",
+          "location" : {
+            "latitude" : 52.70027778,
+            "longitude" : -1.3069444400000001,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "TRENT",
+          "location" : {
+            "latitude" : 53.053888888888885,
+            "longitude" : -1.6699999999999999,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "TNT",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "RODOL",
+          "location" : {
+            "latitude" : 53.238055559999999,
+            "longitude" : -1.86194444,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "TENSO",
+          "location" : {
+            "latitude" : 53.600555559999997,
+            "longitude" : -2.2075,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "BELOX",
+          "location" : {
+            "latitude" : 53.88777778,
+            "longitude" : -3.48972222,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "APSOV",
+          "location" : {
+            "latitude" : 55.82305556,
+            "longitude" : -10,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "PIKIL",
+          "location" : {
+            "latitude" : 56,
+            "longitude" : -15,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "5720N",
+          "location" : {
+            "latitude" : 57,
+            "longitude" : -20,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "5830N",
+          "location" : {
+            "latitude" : 58,
+            "longitude" : -30,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "5740N",
+          "location" : {
+            "latitude" : 57,
+            "longitude" : -40,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "5550N",
+          "location" : {
+            "latitude" : 55,
+            "longitude" : -50,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "LOMSI",
+          "location" : {
+            "latitude" : 53.100000000000001,
+            "longitude" : -56.783333329999998,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "RIVIERE-DU-LOUP",
+          "location" : {
+            "latitude" : 47.756397777777771,
+            "longitude" : -69.588618611111102,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "YRI",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "MONTREAL-DORVAL",
+          "location" : {
+            "latitude" : 45.615574166666669,
+            "longitude" : -73.970842777777776,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "YUL",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "SYRACUSE",
+          "location" : {
+            "latitude" : 43.160301944444448,
+            "longitude" : -76.204455833333341,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "SYR",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "ELLWOOD CITY",
+          "location" : {
+            "latitude" : 40.824743333333338,
+            "longitude" : -80.21140444444444,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "EWC",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "FALMOUTH",
+          "location" : {
+            "latitude" : 38.649194166666668,
+            "longitude" : -84.310560277777782,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "FLM",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "BOWLING GREEN",
+          "location" : {
+            "latitude" : 36.928624166666665,
+            "longitude" : -86.443343333333345,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : "BWG",
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "HARET",
+          "location" : {
+            "latitude" : 36.321126939999999,
+            "longitude" : -87.801119720000003,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "AXXEL",
+          "location" : {
+            "latitude" : 36.073898059999998,
+            "longitude" : -88.338335560000004,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "SPKER",
+          "location" : {
+            "latitude" : 35.730562499999998,
+            "longitude" : -89.070022780000002,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "BLUZZ",
+          "location" : {
+            "latitude" : 35.601961940000002,
+            "longitude" : -89.236133609999996,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "COPEN",
+          "location" : {
+            "latitude" : 35.499451110000003,
+            "longitude" : -89.389453889999999,
+            "altitude" : 0
+          },
+          "type" : 0,
+          "identifier" : null,
+          "children" : null,
+          "altitude" : -1
+        },
+        {
+          "name" : "Memphis Intl",
+          "location" : {
+            "latitude" : 35.042671203613281,
+            "longitude" : -89.97663402557373,
+            "altitude" : 103.63200378417969
+          },
+          "type" : 0,
+          "identifier" : "KMEM",
+          "children" : null,
+          "altitude" : -1
+        }
+      ],
+      "lastUpdate" : "2023-01-09 18:36:09Z",
+      "flightPlanId" : "60257ecf-425e-4331-83d9-dd106c69db73"
+    }
+  }

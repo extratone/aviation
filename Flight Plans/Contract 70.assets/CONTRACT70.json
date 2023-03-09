@@ -1,0 +1,16 @@
+{
+	"id": "98b9d30e-9d0c-4b13-b20f-e9d4a4c7ea43",
+	"created": "2023-01-18T03:58:27.346564+00:00",
+	"userId": "9b6176d9-2377-4f72-b1f2-85f8ec7be935",
+	"aircraftId": "e59fa7b4-b708-4480-aebd-26659a4f312b",
+	"liveryId": null,
+	"callsign": "FedEx 70",
+	"server": "Expert Server",
+	"dayTime": 0,
+	"nightTime": 141.82332,
+	"totalTime": 141.82332,
+	"landingCount": 1,
+	"originAirport": "EGPF",
+	"destinationAirport": "LIRA",
+	"xp": 1539
+}
